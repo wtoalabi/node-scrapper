@@ -1,4 +1,4 @@
-import {project, urls} from "project_file";
+ const {project, urls} = require("./project_file");
 const {Scraper, Root, DownloadContent, OpenLinks, CollectContent} = require('nodejs-web-scraper');
 
 const fs = require('fs');
@@ -6,6 +6,7 @@ const fs = require('fs');
 let path = fs.mkdirSync(`./blogs/${project}`, {recursive: true});
 
 for (let i = 0; i < urls.length; i++) {
+  sleep(10000);
   let url = urls[i];
   let parsedUrl = new URL(url);
   let path = parsedUrl.pathname;
@@ -46,3 +47,7 @@ async function scrap(url, title) {
   })//Will produce a formatted JSON containing all article pages and their selected data.
 
 };
+
+function sleep(millis) {
+  return new Promise(resolve => setTimeout(resolve, millis));
+}
