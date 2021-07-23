@@ -1,4 +1,4 @@
- const {project, urls} = require("./project_file");
+const {project, urls} = require("./project_file");
 const {Scraper, Root, DownloadContent, OpenLinks, CollectContent} = require('nodejs-web-scraper');
 
 const fs = require('fs');
@@ -6,14 +6,17 @@ const fs = require('fs');
 let path = fs.mkdirSync(`./blogs/${project}`, {recursive: true});
 
 for (let i = 0; i < urls.length; i++) {
-  sleep(10000);
-  let url = urls[i];
-  let parsedUrl = new URL(url);
-  let path = parsedUrl.pathname;
-  let title = path.slice(1, path.length - 1);
-  //console.log(url, title);
-  scrap(url, title).then(function (result) {
-    console.log(result)
+  sleep(5000).then(function () {
+    let url = urls[i];
+    let parsedUrl = new URL(url);
+    let path = parsedUrl.pathname;
+    let title = path.slice(1, path.length - 1);
+    let trimmed = title.split('/');
+    let trimmed_title = trimmed[trimmed.length - 1]
+    //console.log(url, title);
+    scrap(url, trimmed_title).then(function (result) {
+      console.log(result)
+    });
   });
 }
 
