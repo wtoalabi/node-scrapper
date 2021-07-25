@@ -1,10 +1,10 @@
 {
   "name": "node-scrapper",
-  "typw": "module",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "collapse-white-space": "^2.0.0",
     "nodejs-web-scraper": "^6.0.1"
   }
 }
