@@ -1,0 +1,235 @@
+"I hate math. It’s boring, tedious, and I suck at it.
+  The only math I want to concern myself with during training is meathead arithmetic, or in layman’s terms, figuring out how much weight is on the bar.
+  When I started strength training I wanted nothing to do with percentages. If I was reading an article and the author started rambling about “speed squats at 60% 1RM” or “bench press clusters at 93% 1RM,” I’d immediately tune out and carry on with my day.
+  I had no idea of how percentages were related to training or why they were so regularly referenced. Rather than try to learn, though, I simply avoided them.
+  Stupid decision.
+  Not only was this ignorant and shortsighted but it severely handicapped my training. It wasn’t until I finally buckled down and started learning about percentages and how to incorporate them within a well-designed training regimen that I truly began to make significant progress.
+  So what can you take away from this?
+  This article will teach you the basics of percentages, why they’re important, and how to use them appropriately.
+  Trust me, I know math can be obnoxious and you’d probably rather shove a fork in your eye than read about percentages, but understanding how to effectively integrate them into your training will drastically enhance your ability to improve both strength and performance.
+  So, without any further ado, let’s bust out our calculators and let the geek-fest begin!
+  What are Training Percentages?
+  Training percentages are reference numbers which, when used correctly, aid in the design of effective training programs by facilitating the simultaneous development of numerous strength qualities.
+  I know that’s a mouthful so let’s break it down piece by piece.
+  First, we know that training percentages are a reference number, but what the hell are they referencing?
+  Simply, training percentages are based on an individual’s 1-repetition maximum (1RM) in a specific lift. For those who don’t know, a 1RM can be defined as “the maximum amount of weight an individual can lift in a single repetition for a given exercise.”
+  To illustrate, if the most weight I can squat for a single repetition is 415 pounds, then that’s my current squat 1RM. While this may seem like an arbitrary piece of information, knowing the maximum amount of weight you can lift is extremely beneficial.
+  By keeping track of your best lifts and consistently retesting them, you can get an accurate gauge of your rate of improvement as well as whether your training has been effective.
+  Let me add that knowing your 1RM is really only necessary for big, compound movements such as variations of the squat, bench press, deadlift, snatch, jerk, and other lifts of the sort.
+  I suppose one could potentially use percentages for smaller, isolated movements such as biceps curls, triceps extensions, and calf raises, but in all honesty, it would be a waste of time.
+  As noted, the appropriate implementation of training percentages can help facilitate the improvement of numerous strength qualities. In essence, this means that we can develop maximal strength, explosive strength, speed strength, and any other strength qualities we wish to improve.
+  To gain a basic understanding of this concept, however, it’s necessary to recognize the discrepancies between each of the aforementioned strength qualities.
+  
+  Maximal Strength:  Is characterized by the ability to lift as much weight as possible irrespective of time. Squatting for a 1RM is a perfect example of maximal strength.
+  Explosive Strength:  Is characterized by the ability to demonstrate high amounts of force in a very short period of time. A well-executed Olympic lift is a perfect example of explosive strength.
+  Speed Strength:  Is characterized by the ability to move at high speeds with relatively low external resistance. Sprinting 100 meters is a perfect example of speed strength.
+  
+  So how do training percentages relate to each of these and other strength qualities?
+  Quite simply, by training at a certain percentage of our 1RM we can target a specific training goal such as maximal strength, explosive strength, and/or speed strength.
+  And as simple as it sounds, the entire concept of percentage-based training is based on the idea that a specific goal or desired outcome dictates a specific training percent.
+  Which brings us to the next important question: How do we know which percentages to use?
+   
+  <img width=\"100%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/build-your-back.jpg\" alt=\"Build your back\" />
+  
+  Choosing Appropriate Percentages
+  Accompanying the idea that a desired training outcome dictates a specific training percentage, it’s necessary to understand what percentages to use based on your individual goals.
+  As a powerlifter, my expertise is mostly in the strength realm. As such, the remainder of this article will focus on how to choose appropriate percentages with the intention of improving maximal strength.
+  First, when the goal is to develop maximal strength it’s essential to lift maximal or near maximal weights. While this doesn’t necessarily mean 100% of your 1RM, it does mean that some portion of our training must include lifting loads at or above 90% 1RM.
+  Second, it’s essential to understand the importance of speed in relation to maximal strength. If one isn’t capable of accelerating quickly, then strength will be negatively affected.
+  Take, for example, the equation for force:
+  
+  Force (F) = Mass (M) x Acceleration (A)
+  
+  Greater acceleration leads to greater force, which leads to heavier weights being lifted. So, to train for improved speed one must use light(er) weights with the goal of moving them as quickly as possible. Generally, this requires some portion of our training to include lifting loads between 50% – 65% 1RM.
+  As you can see, to optimally train for maximal strength one can’t just focus on lifting heavy, they must also focus on lifting quickly.
+  Incorporating a wide variety of percentages with the consistent goal of moving weights as explosively as possible will lead to the best strength outcomes.
+  Which brings us to our final question: How many sets/reps should we perform at a given percentage of our 1RM?
+  Choosing Appropriate Set/Repetition Ranges
+  To understand how to choose appropriate set/repetition ranges it’s necessary to examine what’s known as Prilepin’s Chart:Percentages
+  Reps per Set
+  Optimal
+  Total Range55-65
+  3-6
+  24
+  18-3070-80
+  3-6
+  18
+  12-2480-90
+  2-4
+  15
+  10-2090+
+  1-2
+  4
+  10Before you freak out and say the table is too confusing, allow me to explain.
+  Briefly, a Soviet sports scientist named A.S. Prilepin designed the above chart in an attempt to outline the optimal set/repetition ranges to use at a given percentage of a lifter’s 1RM.
+  Prilepin’s findings are based on extensive research with thousands of elite weight lifters and have been popularized in the Western world by Louie Simmons of Westside Barbell.
+  To make the chart as simple and easy-to-understand as possible, let’s go through it column by column.
+  First, the far left column depicts Percentages, and these are based on the percentage of an individual’s 1RM.
+  For example, in the first row we see a range of 55% – 65%, which refers to weights between 55% – 65% of the lifter’s 1RM. Assuming a 1RM of 400 pounds, this includes weights of anywhere between 220 pounds and 260 pounds.
+  Applying what we learned in the previous section, these weights would be perfect for developing speed-strength because we’re using relatively light external resistance and will therefore be capable of moving it at higher speeds.
+  In the second column we see Reps per Set, which stands for the total number of repetitions per set as recommended by Prilepin.
+  Going with the example from above, when using 55% – 65% 1RM, one could use anywhere between 3-6 repetitions per set. On the other end of the spectrum, when lifting weights at or above 90% 1RM, a lifter should limit the total number of repetitions to 1-2 per set.
+  Moving on to the third column, we see Optimal, which represents the ideal number of total repetitions to perform in a single training session within a given percentage range. So, if a lifter is deadlifting at 80% – 90% 1RM, the optimal number of total repetitions within that percentage range would be 15.
+  Finally, in the fourth and final column we see Total Range, which indicates the acceptable repetition range when operating at a given percentage of 1RM.
+  While the third column specifies the optimal number, this fourth column gives us a wider range to work with as it’s not always feasible to hit the exact number of optimal repetitions.
+  So to illustrate, when performing lifts at or above 90% 1RM, it would be optimal to perform 4 total repetitions but acceptable to go as high as 10, depending on the lifter and their needs.
+  Important Note: Powerlifters should perform no more than 4 total repetitions above 90%1RM. Prilepin’s data was taken from Olympic lifters who don’t have an eccentric component to their main lifts which reduces total training stress. Consequently, powerlifters would be wise to reduce the total range at 90%+ to 2-4 lifts, with an optimal number being 3.
+  As you can see, Prilepin’s chart is just a set of guidelines. It eliminates most of the guesswork and presents us with a solid idea of how to structure our training for optimal results.
+  Try to adhere to his recommendations as best as possible but don’t freak out if you don’t hit the optimal number of repetitions. Stay within the Total range on any given day and keep note of how you feel both mentally and physically. Soon enough you’ll develop your own set of guidelines that works best for you.
+  Establishing Your 1RM
+  To use percentages you’ll first need to establish an accurate 1RM in the big compound movements such as the squat, bench press, and deadlift. While this may sound complicated and time-consuming, it’s really a very simple process.
+  Step 1: Establish a Theoretical 1RM
+  For simplicity sake, let’s assume you have no idea what your current 1RM is but you do know your 3, 5, or 8 repetition maximum (3, 5, or 8RM). For this case specifically, I’ve provided a simple formula below that will give you a relatively accurate, albeit theoretical, 1RM.
+  
+  Total Weight Lifted in Pounds / (1.0278 – (Number of Repetitions x 0.0278)) = ~1RM
+  
+  To illustrate, if your 5RM for the bench press is 185 pounds, then you would plug the corresponding numbers into the equation:
+  
+  185 / (1.0278 – (5 x 0.0278)) = ~ 208 pounds
+  
+  208 pounds is now your theoretical 1RM.
+  Step 2: Establish a True 1RM
+  Now that you have a decent idea of what your current 1RM is, you can work up to test your true 1RM.
+  When working up to a true 1RM it’s important to use progressively heavier weights in a manner that prepares your mind and body to handle maximal loads without causing excessive fatigue.
+  To accomplish this I’ve created the table below, which outlines the appropriate percentages, reps, sets, and rest periods based on your theoretical 1RM.
+  Follow the table exactly as outlined for the best possible results.Warm-up Set Number
+  Percentage (%) of Theoretical 1RM
+  Reps per Set
+  Rest1
+  30-50%
+  5
+  1-2 min.2
+  50-60%
+  5
+  1-2 min.3
+  60-70%
+  3
+  2-3 min.4
+  75-87%
+  1-2
+  2-3 min.5
+  90-93%
+  1
+  3-5 min.6
+  100%+ (PR)
+  1
+  3-5 min.For example, if your theoretical 1RM deadlift is 400 pounds, then your warm-up would look similar to this:
+  
+  Set 1:  200 pounds x 5
+  Set 2:  240 pounds x 5
+  Set 3:  280 pounds x 3
+  Set 4:  340 pounds x 2
+  Set 5:  360 pounds x 1
+  Set 6:  405 pounds x 1 (True 1RM)
+  
+  Putting It All Together – Sample Programs
+  So, you’ve established a true 1RM and understand how to incorporate percentages into your training routine. Now let’s get to the training!
+  To kick start the process and get you on track to becoming as strong as humanly possible, I’ve provided a sample 3-week training program based on Westside Barbell’s Conjugate Method.
+  If you thought it was tough making it through this entire article, I can’t wait to hear what you think of this training program.
+  Day 1 (Monday): Max Effort Lower Body 
+  Exercise
+  Sets
+  RepsA
+  Work up to a true 1RM in a variation of the squat or deadlift
+   
+   
+  Week 1: Parallel Box Squat
+  Week 2: Sumo Deadlift
+  Week 3: Close-Stance Below Parallel Box Squat
+  B
+  Good Morning
+  3
+  5C1
+  Hyperextension
+  3
+  12C2
+  Dumbbell Side Bend
+  3
+  15/sideDay 2 (Wednesday): Max Effort Upper Body 
+  Exercise
+  Sets
+  RepsA
+  Work up to a True 1RM in a variation of the bench press
+   
+   
+  Week 1: Close-Grip Bench Press
+  Week 2: 2-Board Bench Press
+  Week 3: Week 3: Fat-Gripz Bench Press
+  B
+  Weighted Dip
+  3
+  5C
+  Rope Triceps Pressdown
+  3
+  20D
+  Barbell Bent Over Row
+  4
+  6E
+  Lat Pulldown
+  3
+  10Day 3 (Friday): Dynamic Effort Lower Body 
+  Exercise
+  Sets
+  RepsA
+  Dynamic Effort Below Parallel Box Squat
+  
+  12
+  12
+  10
+  
+  2
+  2
+  2
+  Week 1: 50% 1RM
+  Week 2: 55% 1RM
+  Week 3: 60% 1RM
+  B
+  Dynamic Effort 2-inch Deficit Deadlift
+  
+  6
+  8
+  10
+  
+  3
+  2
+  1
+  Week 1: 65% 1RM
+  Week 2: 70% 1RM
+  Week 3: 75% 1RM
+  C
+  Dimel Deadlift
+  3
+  20D1
+  Reverse Hyperextension
+  3
+  20D2
+  Lat Pulldown
+  3
+  20Day 4 (Saturday) Dynamic Effort Bench Press 
+  Exercise
+  Sets
+  RepsA
+  Dynamic Effort Fat Gripz Bench Press
+  9
+  3
+  Week 1-3: 50% 1RM
+  B
+  Push-Up *
+  3
+  20C1
+  Band Triceps Pressdown
+  3
+  30C2
+  Seated Cable Row
+  4
+  12D
+  Lat Pulldown
+  3
+  15E
+  Straight Leg Sit-Up
+  3
+  20
+  * Push-Up — to failure.
+  The New Math
+  I don’t know many meatheads that love math and fewer still that pack calculators in their gym bags.
+  But understanding and implementing percentages into your training will take your programming to a whole new level of effectiveness, leading to faster gains and less burnout, and bringing you that much closer to strength training mastery."

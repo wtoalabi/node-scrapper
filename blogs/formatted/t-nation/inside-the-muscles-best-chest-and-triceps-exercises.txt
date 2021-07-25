@@ -1,0 +1,186 @@
+"Every guy has his own theory about which exercises are the best and which exercises suck. Whether we’re analyzing the biomechanics of an exercise (not very likely), “feeling the burn” (more likely), or simply doing a ton of sets and seeing how sore we get over the next few days (ding, ding, ding, we have a winner!), we all think we know the best movements to grow our muscles.
+  But do we really?
+  Bret Contreras wants to take you inside your muscles–without the freak accident that usually precedes such gross anatomy lessons–using EMG, a tool that measures how much muscle activity is going on with every movement you do.
+  After testing 20 different chest and triceps exercises, he’s here to reveal the best of the best.
+  Editors Note: If you haven’t yet read Inside the Muscles: Best Shoulders and Trap Exercises you may want to give it a quick look as it’ll clear up any questions you may have regarding electromyography (EMG) and the experiments. 
+  First, I apologize if I left out one of your favorite exercises. Don’t take it personally. I performed these experiments in my garage, and while I have one of the baddest garage gyms in Arizona, I don’t have a lot of machines. So you pec-deck folks can drop me some hate mail.
+  I’m also sorry I couldn’t test more individuals. These experiments are very labor-intensive; in order to measure every exercise on every muscle part using a variety of subjects would be a project of colossal proportions. (And one I’d need a few thousand dollars and a keg of Guinness to perform.) Just remember this: people are different, but not that different. What’s true for me is probably true for you. 
+  Finally, I’m not going to make any judgments regarding the safety of any exercise. I realize that certain exercises pose greater risks to the joints than others, but every guy has the right to train however the hell he chooses. As lifters, we can choose to assume a lot of risk or little risk since we’re the owners of our bodies. 
+  Oh, one more thing: good form, a natural tempo, and a full range of motion were always used in these experiments. 
+  Now that the pre-flight safety announcement list of warnings is over, let’s get to it. Are you ready to build some huge pecs and horseshoe triceps? 
+  What You’ve Been Waiting For! The Exercises.
+  Since this is a bodybuilding experiment, I never used a weight that was too heavy to perform at least five repetitions. The mean number is on top and the peak number is on bottom. (If you don’t know what I’m talking about, please read “What Are Mean and Peak Activation?“)Exercise
+  Upper Pec
+  Mid Pec
+  Lower Pec
+  Tri Long Head135 lb Bench Press
+  53.8111.0
+  69.5157.0
+  42.082.7
+  14.351.2225 lb Bench Press
+  125.0230.0
+  181.0408.0
+  116.0347.0
+  47.8109.0275 lb Bench Press
+  109.0198.0
+  177.0288.0
+  130.0345.0
+  73.5153.0135 lb Incline Press
+  87.1157.0
+  68.3197.0
+  25.360.2
+  18.942.7225 lb Incline Press
+  135.0222.0
+  133.0374.0
+  69.4249.0
+  48.784.0245 lb Incline Press
+  130.0261.0
+  156.0422.0
+  89.4337.0
+  55.8109.0100 lb Dumbbell Bench Press
+  122.0192.0
+  204.0451.0
+  88.1252.0
+  43.7128.090 lb Dumbbell Incline Press
+  128.0310.0
+  124.0286.0
+  59.0172.0
+  35.598.9Bodyweight Dip
+  73.7164.0
+  105.0234.0
+  124.0266.0
+  73.9150.0115 lb Dip
+  140.0232.0
+  192.0332.0
+  214.0418.0
+  124.0217.0225 lb Close Grip Press
+  106.0211.0
+  137.0229.0
+  77.5217.0
+  52.6107.0225 lb Wide Grip Guillotine Press
+  114.0302.0
+  176.0511.0
+  169.0502.0
+  61.9142.0225 lb Floor Press
+  106.0197.0
+  148.0248.0
+  121.0255.0
+  52.2112.0275 lb Floor Press
+  132.0265.0
+  197.0356.0
+  154.0347.0
+  64.8170.050 lb Fly
+  116.0226.0
+  165.0354.0
+  150.0387.0
+  13.226.160 lb Fly
+  133.0231.0
+  195.0493.0
+  160.0450.0
+  14.931.350 lb Incline Fly
+  125.0249.0
+  135.0344.0
+  77.3257.0
+  12.620.0100 lb High Pulley Crossover
+  107.0201.0
+  168.0311.0
+  153.0397.0
+  9.619.1100 lb Mid Pulley Crossover
+  154.0252.0
+  154.0271.0
+  124.0251.0
+  11.523.1100 lb Low Pulley Crossover
+  135.0233.0
+  78.6249.0
+  36.974.8
+  20.277.2Bodyweight Push Up
+  109.0204.0
+  124.0252.0
+  101.0194.0
+  24.038.7Bodyweight CG Push Up
+  103.0188.0
+  118.0188.0
+  70.7119.0
+  22.943.2Bodyweight Elevated Push Up
+  96.6156.0
+  102.0232.0
+  52.7167.0
+  24.046.6Bodyweight Blast Strap Push Up
+  113.0206.0
+  166.0363.0
+  177.0352.0
+  35.3107.0Purple Band Push Up
+  115.0168.0
+  125.0294.0
+  113.0217.0
+  51.878.7Green Band Push Up
+  151.0239.0
+  162.0268.0
+  121.0238.0
+  59.3125.0100 lb Dumbbell Pullover
+  55.7119.0
+  88.6186.0
+  53.8164.0
+  66.9153.0JC Band Press
+  143.0272.0
+  45.791.0
+  53.0127.0
+  21.052.695 lb Skull Crusher
+  45.689.5
+  21.548.6
+  70.7118.0
+  116.0172.0120 lb Rope Extension
+  6.914.9
+  5.421.9
+  36.182.5
+  135.0276.0140 lb Cable Extension
+  9.321.3
+  9.318.7
+  78.2172.0
+  132.0255.0Purple Band Extension
+  11.427.4
+  10.719.5
+  69.4174.0
+  120.0221.0140 lb Cable Overhead Extension
+  19.441.0
+  19.2130.0
+  40.6126.0
+  109.0206.0The Winners
+  Based on this experiment, here are the top three exercises in terms of mean and peak activity for each muscle part:
+  
+  Upper Pec
+  Mean: Mid Pulley Crossover, Band Push Up, JC Band Press
+  Peak:  Dumbbell Incline Press, Guillotine Press, JC Band Press
+  
+  Mid Pec
+  Mean: Dumbbell Bench Press, Floor Press, Fly
+  Peak:  Guillotine Press, Dumbbell Bench Press, Fly
+  
+  Lower Pec
+  Mean: Weighted Dip, Blast Strap Push Up, Guillotine Press
+  Peak:  Guillotine Press, Fly, Weighted Dip
+  
+  Medial Triceps
+  Mean: Rope Extension, Cable Extension, Weighted Dip
+  Peak:  Rope Extension, Cable Extension, Band Extension
+  Confirmations
+  It’s important to know that I used a powerlifting-style bench press: arched low back, good leg drive, arms at a 45-degree angle, slightly narrower grip, bar lowered to the lower chest. The form used for the guillotine press was straight from late Iron Guru Vince Gironda: feet on the bench, no arch, elbows flared out, wider grip, bar lowered to the neck. It’s no surprise the guillotine press works much more pec than the bench press. 
+  Looking at the entire pecs, we find much variety in movements. This jives with the old bodybuilder theory that the best workout should hit muscles from a lot of angles with different forms of resistance. We’ve always known the pecs respond to a good stretch, as shortened ranges of motion rarely build a nice chest. 
+  I’ve long-suspected that pec isolation movements can rival compound movements in terms of pec activity. This study confirms that suspicion. Powerlifting gurus like Louie Simmons and Dave Tate have always discussed the importance of triceps specialization for a strong bench. This experiment lends support to their recommendations. 
+  Surprises
+  Although I knew that the guillotine press worked much more pec than a bench press, I was surprised to find that a guillotine press with 225 pounds worked more pec than a bench press with 275 pounds! I found it very surprising that the floor press and band push up squeaked their way into the winner’s circle, as they’re the only movements in the entire winner’s group that do not move the pecs into a stretch position. 
+  Although I’ve always felt the JC band press worked a ton of pec (the bands typically place the most stress in the contracted position), I didn’t expect it to work as much pec as it did. I can walk out really far with the JC bands and get a ton of tension in the movement, and the increased stabilization efforts may focus more tension on the pecs and less on the triceps. I was surprised that the barbell incline press and incline fly didn’t make it into the winner’s circle, especially for upper pec activity. 
+  The pullover always gets the long head of my triceps very sore, so I was wondering if it would top the charts in muscle activity. But activation does not always equate to soreness, as stretch position exercises produce more soreness while contracted position exercises produce more of a pump. 
+  I was actually very surprised at how much better triceps isolation exercises seem to work the triceps in comparison to compound movements. However, the body likes to grow proportionately; you rarely see a guy with huge arms and a puny torso, so don’t neglect compound movements for triceps development.
+  What If?
+  During experiments like these, one is often left with much curiosity. What if I would have gone heavier on the guillotine press? I could have gone much heavier, as 225 is a relatively light weight for me on that exercise. The same goes for dumbbell bench press–I could have gone heavier. 
+  How would the pec deck have faired? What if I would have placed the electrodes on the inner and outer pecs? Would the activity be the same, or can we isolate those areas as well? (Doubtful.)
+  What if I would have performed wide-grip weighted dips? What if I would have worn a weighted vest during blast strap push-ups? What if I would have measured the activation in the lateral head of the triceps? Would it have matched the activity in the long head of the triceps, or do they function much differently? What if Miley Cyrus was 18? Would she date a musclehead from Arizona?
+  Clearly more research is needed, as it’s impossible to anticipate everything prior to an experiment, no matter how prepared and organized you seem.
+  The Best Damn Pec and Triceps Workout
+  Based on the results of this experiment, I bet the following would be one kick-ass workout that’d target the upper, mid, and lower pecs as well as the triceps. Enjoy!
+  
+  Guillotine Press or Dumbbell Bench Press
+  Dumbbell Incline Press or Mid-Pulley Crossover
+  Weighted Dip or Fly
+  Rope Extension or Cable Extension"

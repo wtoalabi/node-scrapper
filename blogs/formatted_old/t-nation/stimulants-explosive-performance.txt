@@ -1,0 +1,84 @@
+"Here’s what you need to know…
+  
+  Dr. Lowery investigates whether the effects of an energy drink are mainly cognitive or if something else is going on too, like actual motor neuron or muscular enhancements.
+  Both the stretch reflex and the dietary stimulant greatly enhanced explosive performance.
+  Individuals vary considerably – including genetically – in their responses to dietary stimulants.
+  
+  It was random circumstance. At a strength and conditioning workshop I overheard two of the speakers raving about an energy drink as a pre-workout supplement. Being a caffeine/stimulant researcher these past four years and getting pretty adept at detecting the cognitive and neuromuscular effects thereof, I leaned in to hear more. When I heard one of them say “Spike”, I butted in.
+  We discussed the nuances of different stimulants, as far as the perceptual effects. I bet many of you will agree that they do differ. Coffee doesn’t perfectly equal pure caffeine, which does not quite equal energy drinks or pre-workout tablets. I’ve used Spike in tablet form, so I got curious. Ever the skeptic, I immediately pondered whether the effects I was hearing about were simply limited to cognition or whether there may be an actual motor nerve or muscular effect. I had to find out.
+  Stimulants and the Stretch Reflex
+  There’s been an idea brewing (pun intended) in the back of my mind since I undertook some coffee research last year. What if the right dietary stimulant was used to augment the stretch reflex? I know for a fact this is a reproducible phenomenon. Indeed, I use it as an educational lab activity: We provide some prior eccentric stretch and the bar flies up with vigor.
+   
+  <img width=\"70%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/Stretch-reflex.jpg\" alt=\"Stretch Reflex\" />
+  
+   
+  
+  Figure 1. The Stretch Reflex (Simplified)
+  
+  So, being less interested in a boost of my one-rep max, which has met with mixed results by researchers before (3, 7), I wondered what would happen regarding purposeful manipulation of more explosive performance. Call it speed work if you like. Simply put: I’d bathe the neuromuscular circuit involved in the stretch-shorten cycle with stimulant compounds and see what happens.
+  I ordered up a case of Spike® Shooter for my little investigation. Importantly, I had no delusions of grandeur. This wouldn’t be a scientific demonstration, but a simple tinkering with nature, a simple observe-and-record, informal case example. I would attempt to remain objective. I’m not a coach but rather an insatiably curious nutritionist, physiologist and lifter. After all, on some level we all want to know what happens in our own bodies and lives. Below are my notes.
+  Spike Notes Day One: Initial Gym Experience
+  
+  This afternoon, just before departing for gym (20 minute drive), I’m sipping one Spike Shooter and holding each sip under my tongue for about 20 seconds.
+  Can is gone after 5-8 minutes has elapsed.
+  Thoughts in car: Beyond solely focusing on the stretch-shorten cycle phenomenon, I have great interest in taking this a step further, perturbing the system via diet. I remind myself to remain as neutral and objective as possible. (Stimulants can have a mood-elevating effect.)
+  Perceptions upon going through my pre-workout ritual at gym, warming up: Subjectively I can always tell when a stimulant is working via two self-criteria: My worn-out music selection takes on new life, and visual focus actually snaps into hyper-clarity. The latter is already happening.
+  35 minutes post-ingestion, increased alertness is noticeable.
+  35-50 minutes post-ingestion, interest and focus on rhythm and lyrics coming through my headphones is very evident during warm-ups.
+  Age-related stiffness has faded by set 3. Rationally this may be as much the ibuprofen as a sense of energy, but I feel a beneficial “tightness” and control.
+  Engaging in different types of explosive work:Preload (pausing bar near bottom of movement, feeling taught sensations of the light pre-dynamic contraction, the partial action of actin and myosin “grabbing” in the muscle bellies.)
+  Sitting in the hole with less preload tension (imagining a nitromethane-powered dragster exploding from the green light, accelerating 0-100 mph in less than 1 second).
+  Dynamic stretch-contract (a bit more rapidity, quick reversal of eccentric-to-concentric phase, a little “bounce”).The bar is nicely leaving traps at the top of squats.
+  I am drenched… from speed work?! It may be the Spike or it may simply be the humidity.
+  The exercise bout has ended. 100+ min, felt like the usual 60 minutes.
+  
+  Spike Notes Day Two: Tinker in the Lab
+  
+  8:00 AM: Breakfast was usual bowl of oats, berries and whey protein, 1 cup half-caf coffee.
+  Initial thoughts while calibrating the Ballistic Measurement System: Today I need the granularity and objectivity of machine-derived numbers.
+  Open-label consumption of the drink is a limitation but enhances external validity (real world applicability due to anticipation).
+  10:00 AM: Set up equipment for Smith bench pressing (best movement choice based on prior data).
+  Today’s Plan: Perform baseline, initial (control) bench measurement at 11:00 AM, wait about 2 hours to reduce influence of neural potentiation from pre-test, perform Spike-bench measurement.
+  Load: 45% 1-repetition maximum (135 lb., See Figure 2.)Variables to include:
+  Power (watts)
+  Force (N)
+  Rate of Force Development (N/s)
+  Bar Velocity (m/s)
+  
+  11:00 AM: Equipment is ready. Reminder to self, be sure to explode maximally in two types of lifts: regular, “in-the-hole” non-reflexive lifts and during dynamic stretch-shorten cycle lifts.
+  One bar-only warm-up set (45 lb., 10 reps)
+  Two “control” sets, without the energy drink, have been completed (one rep of each type of contraction: one without stretch reflex followed by one with prior stretch).
+  12:45 PM: Unplanned meeting (work) at 1:00. Thus, perform Spike lifts 15 minutes earlier than planned (90 minutes after pretesting without the drink).
+  Resulting performance comparison (self):
+  
+  Effect of stretch reflex alone compared to non-reflexive trial:
+  Power +19.6%, Velocity +12.2%, Force +26.3%, RFD + 6.8%
+  Effect of Spike on non-reflexive performance:
+  Power +6.1%, Velocity +8.2%, Force +6.1%, RFD +16.4%
+  Effect of Spike on stretch reflex performance:
+  Power +9.7%, Velocity +11.9%, Force +7.0%, RFD +51.9% (!)
+   
+  <img width=\"70%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/Fig-2.jpg\" alt=\"BMS Tracing\" />
+  
+   
+  
+  Figure 2. BMS Tracing (analyzed segment between red lines)
+  
+  Deconstructing the Data
+  It came as no surprise that both the stretch reflex and the dietary stimulant (Spike Shooter) enhanced my explosive performance. I’ve personally seen this after ingestion of two cups of strong coffee, albeit more along the lines of single-digit percentages. The magnitude of change, however, was a surprise.
+  Rate of force development (the “dragster effect”) in particular was of interest. I remind myself that my subjective sense of anticipation probably affected the results (1), but then this is how the situation would unfold in my daily training – there would be no blinding, I would know that I was drinking the Spike in preparation for the workout.
+  It was also surprising that the subjective cognitive/perceptual effects were different from my past experiences. Although I know different stimulant products offer different sensations, I lack a precise frame of reference for what I felt. This whole experience reinforced my conclusion that product-specific analysis becomes important.
+  I’m making every effort to sound neutral. I can only encourage readers to follow similar note taking “naturalist” procedures, and see how you feel and perform. Even if you don’t have access to measurement devices, you should be able to shed light on your individual enhancement. Individuals vary considerably – including genetically (10) – in their responses to dietary stimulants like caffeine. This is even true of reflexive output. (2, 8)
+  Overall, I think I was able to bear-out the informal hypothesis. The drink enhanced my explosive performance and seemed to act even more strongly when engaging the stretch reflex. I’m intrigued enough to incorporate Spike into a specific workout regime in which I use it purposely on lighter speed days.
+  References and Further Reading
+  
+  Dawkins, L., et al. (2011). Expectation of having consumed caffeine can improve performance and mood. Appetite. Dec;57(3):597-600.
+  Earles, D. (2002). Pre- and post-synaptic control of motoneuron excitability in athletes. Med Sci Sports Exerc. Nov;34(11):1766-72.
+  Eckerson, J., et al. (2012). Acute Ingestion of Sugar-free Red Bull Energy Drink has no Effect on Upper Body Strength and Muscular Endurance in Resistance Trained Men. J Strength Cond Res. Dec 4. [Epub ahead of print]
+  Hodgson, et al. (2005). Post-activation potentiation: underlying physiology and implications for motor performance. Sports Med. 35(7):585-95.
+  Lowery, R., et al. (2012). The effects of potentiating stimuli under varying rest periods on vertical jump performance and power. J Str Cond Res 26(12): 3320-3325.
+  MacIntosh, B. and Gardiner, P. (1987). Posttetanic potentiation and skeletal muscle fatigue: Interactions with caffeine. Can J Physiol Pharmacol 65: 260-268.
+  Pallarés JG, et al. (2013). Neuromuscular responses to incremental caffeine doses: performance and side effects. Med Sci Sports Exerc. Nov;45(11):2184-92.
+  Ross, A., et al. (2001). Neural influences on sprint running: training adaptations and acute responses. Sports Med. 31(6):409-25.
+  Skof, B. and Strojnik, V. (2006). Neuromuscular fatigue and recovery dynamics following anaerobic interval workload. Int J Sports Med 27(3): 220-225.
+  Womack, C., et al. (2012). The influence of a CYP1A2 polymorphism on the ergogenic effects of caffeine. J Int Soc Sports Nutr. Mar 15;9(1):7."

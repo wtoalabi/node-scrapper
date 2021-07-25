@@ -1,0 +1,64 @@
+"It’s Monday evening at Globo Gym. On the left is a group of heavyset women awkwardly performing a circuit weight training class while the overweight instructor assures them that lifting three pound dumbbells for high reps will create “lean, toned muscles.”
+  On the right are dozens of young men hammering away with heavy weights, but with form so poor that biceps curls and lateral raises soon resemble cleans and high pulls.
+  There’s a clear correlation between moving big weights and having big muscles, but how you move the weight still matters, from the first rep to the very last . My eye-searing observations at Globo has me thinking that a little-refresher on rep quality is in order. If you’re an experienced lifter in a slump, a skinny bastard, or struggling with a setback, the following is for you.
+  ATP for Dummies
+  Let’s start with a brief review of the muscles’ energy systems.
+  Experts tell us how important fast twitch muscle fibers are for strength and size training. These fibers don’t rely on oxygen for the first 15 or so seconds of work but instead derive their instant energy from ATP, a chemical compound that includes creatine and phosphorous.
+  Once that 15 seconds is up, ATP is depleted, and those muscle fibers start to fatigue and drop out of the effort. That’s why in events like the 100m dash, sprinters build up and maintain a top speed, but in events like the 200m dash, sprinters appear to slow down and become much less explosive as they near the finish line.
+  There’s also a hitch to exerting your muscles vigorously using just ATP, lactic acid. While your muscles are lifting heavy or doing explosive work, lactic acid builds up as a waste product and remains in the muscle tissue, creating the “burn.” Once it’s present, only rest and very low intensity aerobic work can flush it out.
+  About Lifting Tempos
+  There are varying opinions on optimal lifting tempo. The answer lies in the nature of your training. To ensure that everyone will understand the jargon to follow, here’s a breakdown of a random, universal tempo.
+  2-0-X-0
+  
+  The first number represents the negative rep. Two-seconds down.
+  The second number represents the amount of time to pause at the bottom of the rep. In this case, no pause.
+  The third symbol represents the concentric rep. In this case, X means “explosive.”
+  The fourth number represents the amount of time to pause at the top. Again, no pause here.
+  
+  Now that we’re all on the same page, here’s my breakdown of optimal tempo training for different populations.
+  The Intermediate T Nation Guy
+  By this I mean the typical T Nation reader who’s after huge, yet functional muscles. To train for size, there are things we need to consider concerning tempo.
+  Studies have shown that the back, biceps, and quads have a higher percentage of type I (slow twitch) muscle fibers and low threshold motor units, whereas the hamstrings, glutes, calves, triceps, traps, chest and shoulders have a higher percentage of type II (fast twitch) muscle fibers and high threshold motor units. Granted, there are exceptions, but this info can influence how we should perform our reps.
+   
+  <img width=\"100%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/speed-squat.jpg\" alt=\"Speed Squat\" />
+  
+  Fast-Twitch Muscle Groups (Shoulders, Chest, Hams, Glutes)
+  It would require about 24 seconds to complete 8 reps using the 2-0-X-0 above. It wouldn’t make sense to train hamstrings for size (not strength) with that time under tension if the goal is to optimize the firing capacity of the largest, strongest fiber bundles in the hamstrings. It would make more sense to exploit those fast-twitchers for all they’re worth by cutting the reps down to 5 or 6 reps and focus on exploding on the concentric portion of the lift.
+  To make up for the rep-deficit to maintain an effective training volume, we simply add more sets. Since we’re training for size, we don’t need to go for 90% of max strength ranges; 70-80% of maximum would be best, and lower than normal rest.
+  In English, if you’re doing 5 sets of 10 reps of stiff deadlifts, try switching to 10 sets of 5, with 70% load and 30 seconds of rest. This is a much more effective method to fatigue the fibers of these muscle groups.
+  I often use a 3 or 4 second negative rep as a tool for strength training, and maintain that there’s a notable difference between training to increase a muscle’s strength and increase its size. Slow eccentric training is optimized when controlling very heavy loads, and it’s also taxing on the CNS. It plays an integral role in strength programs, and while it also has a place in size programs it should supplement them rather than dominate them.
+  I like to overload the CNS of an intermediate lifter every second week with one to two key exercises per group, and try to focus on volume and stimulation for the remainder of the time. I stick with a moderate two-second negative – two full seconds down is still a long time, let alone four-seconds.
+  In my experience, most gym rats apply a tempo like X-0-X-WTF; in other words, there’s zero thought behind it other than how swole they look in the mirror. Shame on you, meatheads.
+  Slow Twitch Muscle Groups (Back, Biceps, Quads)
+  If you’re thinking the same rules apply, think again. Since there are even fewer fast twitch fibers present in these muscle groups, there’s less contributing muscle to drop out of the lift after the initial 15-second window elapses. Yes, we need to lift moderately heavy to stimulate the muscles to grow, but we also have a bundle of muscle fibers within the muscle group that respond very well to high volume training. So we should also think of aiming for higher reps.
+  Don’t worry about the negative reps as much – less emphasis needs to be placed on them since we’re mainly dealing with the type I fibers. Squeeze out as many technically sound concentric reps as possible until you need to rest. German Volume Training and workouts like it are great for these muscle groups, but we can take things one step further by doing sets of 12 or even 15-20 reps for muscle groups like the back, biceps (Kroc rows), and quads (breathing squats). 1-0-X-0 would probably be a closer fit due to the high reps.
+  The New Guy
+  If you’re a skinny bastard, completely disregard everything I’ve written to this point. Your nervous system needs a kick start, and you also probably need to learn how to stimulate your muscle with properly controlled reps. This is where I’d align with gurus like Poliquin and focus on a 3-0-X-0 or even 4-0-X-0 tempo for most exercises.
+  The response it will yield will be enough for you to pack on some quick size. Be strict with yourself and don’t be too concerned about what point during the set you reach technical failure. Making your sets time-sensitive is something to address when you’re at a certain level, and you just aren’t there yet. This method will help get you there. You’ll also be surprised how much harder it is to lift a substantial amount of weight when applying this method, but don’t let that get you down.
+  As usual, I’m going to preach the big lifts here.
+  
+  Squats
+  Deadlifts
+  Bench press
+  Standing press
+  Pull-ups
+  Rack pulls
+  Pulldowns
+  Seated rows/Under-the-bar rows
+  Dips (using parallel bars)
+  
+  The Injured Guy
+  Injured lifters require a different approach. If you’ve been sidelined with a torn muscle, once you’ve been cleared to start exercising again, the emphasis should be on two things:
+  
+  Bringing oxygenated blood towards the muscle tissue to flood the injured area and thus expedite the healing process.
+  Increasing the muscle’s strength to get it back to where it was before you were injured.
+  
+  A good tempo for injured guys would be 4-0-2-0. Having too aggressive a concentric motion could worsen the injury and the quality of the already damaged tissue could go down even further. Second, the slow negative is the safest and most efficient way to rebuild strength.
+  Often times muscles get injured because they undergo compensation for a deficiency – they may not be fully firing, or they may be taking on the load that another non-fully-firing muscle can’t handle during a weight bearing movement. With a slowed-down concentric action under lighter loads, it will allow a lifter to focus on the full activation of the muscle inside and out, without the potentially dangerous element of time and speed thrown into the mix.
+  Long story short: Lift lighter. Lift slower. Get better.
+  It’s Easy as 1-2-3
+  Exercise is serious, so it behooves us all to ask ourselves one question:
+  Who are we trying to impress?
+  When did weight training change from being a protocol for personal health and fitness to a contest of who’s the most masculine, best looking, and most intimidating? It’s when meathead motivations like these take priority that lifters stop seeing positive returns for their weight training efforts.
+  You can lift smart, be healthy, and look impressive, or you can continue training for showy display, and not even be jacked in time for the day you tear your first hamstring.
+  It’s a free country. The choice is yours!"

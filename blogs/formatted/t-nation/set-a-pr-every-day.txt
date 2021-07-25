@@ -1,0 +1,111 @@
+"Pop quiz, everybody.
+  How often should you set a Personal Record?
+  
+  A.  Once per cycle
+  B.  Depends on how long you’ve been training.
+  C.  Every day.
+  
+  If you answered C, every day, then we’re on the same page. If you didn’t, I’d like to propose that you can – and should – set a Personal Record (PR) every time you train.
+  Traditional models of periodization are based on planned periods of overcompensation. They play on the idea that after training, you’ll have a period of recovery followed by an overshoot in recovery that allows you to achieve more than you were previously capable of.
+  In short, if you bench 225 a few times and then rest for a few days, you’ll be able to bench 230 the next time you lift. Periodization models and the plans based upon them are generally written with a singular end goal in mind, such as a new one-rep max.
+  Here’s a thought: Instead of starting from the end and working backwards, what if you were to simply work forward and ensure that you set a PR every single day? What would you have to do to make this work?
+  Autoregulatory Training
+  First, you’d have to autoregulate your training. You can’t just go in and add weight to the bar every workout or you’ll eventually be found trapped under the bar.
+  Autoregulatory training has already been shown to be more effective than linear periodization. In a well-done 2010 study by Mann et al., 23 Division 1 athletes were split into test cohorts. To summarize, the autoregulating group made more gains over a six-week period.
+  Second, we need to clearly define “Personal Record” in a more useful, yet still specific way. A PR is defined simply as a “more than before.” Using the standard metrics of progress – volume, density, and intensity (either absolute resistance or percentage of max) – we can see several ways to define a new PR.
+  Don’t be stingy in what you call a PR. If you did 5 reps on your first set instead of 4 reps the previous week, you still PR’d, regardless of what you do after the first set. Having redefined PR in a way that’s far more useful, we have the second key element to your new training program.
+  Third, you need to make your training easy. No getting jacked up on multiple pre-workouts (one pre-workout that you’ve used and know how you respond to is fine), having your buddy slap you in the face, or pushing for every last rep.
+  Here’s why: autoregulation allows you to ride the waves up and down in a biological system, pushing when it’s easy and backing off when it’s hard. If you’re making everything hard all the time, you won’t know when it’s easier than normal and you can push forward.
+  Fourth, you’ll need to actually pick things up and put them down.
+  What to Do
+  I’ve laid out a four-day training progression that will make you stronger in every respect that matters. There are four workout templates, but I encourage trainees to train three days per week with it, thus breaking the monotony of having the same “workout” on the same day every week.
+  If you can’t or don’t do an exercise, swap it out for something similar. Exercises with options are listed by priority, so for example if you’re competent in the power snatch, do that.
+  Workout A 
+  Exercise
+  Sets
+  RepsA
+  Power Snatch or
+  Seated Box Jump or
+  Banded KB Swing or KB Swing
+  5
+  5B
+  Front Squat
+  5
+  5C
+  Military Press
+  5
+  5Workout B 
+  Exercise
+  Sets
+  RepsA
+  Deadlift
+  5
+  5B
+  One-Arm Row
+  5
+  5C
+  Pull-Up
+  5
+  5D
+  Face Pull
+  3
+  12Workout C 
+  Exercise
+  Sets
+  RepsA
+  Power Clean or
+  Clean or
+  Back Squat
+  5
+  5B
+  One-Arm Floor Press
+  5
+  5C
+  Dip
+  3
+  12Workout D 
+  Exercise
+  Sets
+  RepsA
+  Push Press
+  5
+  5B
+  Romanian Deadlift
+  5
+  5C
+  Dumbbell Shrug
+  3
+  10C
+  Barbell Curl
+  5
+  12Look, the rep ranges are guidelines. The whole point of autoregulatory training is that you adjust based on how things feel on that day. Athletes grinding out 5×5 on a day that should’ve consisted of 5×3 will run into problems.
+  The First Week
+  Week 1 is where you get your baseline. On the bigger, primary movements select weights where you can get 3 to 5 sets of 5. On the smaller accessory movements you can go up to 12 reps, especially if hypertrophy is your goal.
+  Keep warm-up sets short and minimal. A simple rule of thumb is if you’re lifting three-digit weights, do three warm-up sets; two-digit weights, two sets and so on. On really heavy deadlifts and squats I like to have trainees take warm-up reps as the bar as loaded.
+  Keeping a training log is critical no matter what kind of training you do, but even more so when your entire training session depends on what you did in the past. Relying on your memory is stupid, largely ineffective, and wholly unnecessary – get yourself a 99-cent notebook.
+  One thing that will likely be new to you is calculating the density of an exercise, but it’s simple. Start a stopwatch when you start doing your front squats, and keep it running through your rest periods. When you’re completely done with your front squats, stop the timer. Note the time.
+  Here’s how you will calculate your volume and density for each exercise:
+  
+  Volume = Reps * Resistance
+  Density = Volume / Time
+  Intensity = Resistance
+  
+  Calculate volume and density for each of your movements. For example, if you did 25 reps of front squats with 315 in 15:00 minutes:
+  
+  Volume = 315 * 25 = 7875
+  Density = 7875/ 15 = 525 (lbs/minute)
+  
+  Week Two
+  Now that you’ve got your starting point, your only goal is to improve upon it any way you can. The question to ask yourself is simple: “How can I PR today?”
+  Let 5 sets of 5 reps be your guideline. If you got 5 sets of 5 in the first week, then put a bit more weight on the bar and see what you can do. If you did the best you easily could in the first week, then anything at a greater intensity this week can be considered a PR.
+  One direction would be to actually lower the weight on the bar and do more total volume for a PR in total volume. Don’t get stuck in the 5×5 mindset. If you need to do 10 sets of 10 to get a volume PR, then do what you need to do to move forward.
+  Another variable you can manipulate is your set and rep scheme so that you can PR in a different way. If you’ve been working with sets of 5 reps, see how many singles you can easily do. By keeping track of time, you’ll be able to note both volume and density PRs.
+  If it seems like this is a fairly open ended way of training, that’s because, well, it is. Asking yourself “How can I make progress, better than I ever have before?” will let you make literally perpetual progress, until you die, because then the gains stop.
+  After Your Training Session
+  Go through your training logbook, calculate volume and density as demonstrated above, and note any PRs by highlighting or circling them. Remember, anything you do that’s “more than before” is a PR.
+  Think of every training session as an assessment of whether you made the right decisions. If you did, you should be rewarded with many highlighted PRs and absurd progress. If you’re making the wrong decisions, remind yourself of the fundamental question, “How can I PR today?”
+  Week Three to Infinity
+  Nothing changes in the short term. Keep hitting the gym, lifting weights. After some time, you’ll want to rotate out some of the exercises (especially the accessory movements) because of boredom, slower progress, or you find something that suits you better. The protocol for choosing weights, sets, and reps remains the same.
+  Personally, I haven’t taken a formal, planned deload week in three years. You’ll find that at times your intensity naturally wanes and provided you respect that and don’t try to push through it, you’ll recover nicely without an unnecessary week off training.
+  Close Out
+  Da Vinci said, “Simplicity is the ultimate sophistication.” We’ve found no shortage of complexity in strength training, but surprisingly little sophistication. I’m adamant that allowing your body to regulate your training is the ultimate sophistication. You’ll be amazed at what you can do when you get out of your own way."

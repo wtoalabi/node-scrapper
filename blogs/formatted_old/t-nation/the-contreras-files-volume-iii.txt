@@ -1,0 +1,135 @@
+"The Glute Guy is back, poring through the current research to find the hidden gems to spice up your training.
+  I work tirelessly to keep T Nation readers up to date in both the practical and research aspects of strength and conditioning, and I’ve got some great stuff for you this month.
+  Like the last two installments, the typical lifter, athlete, personal trainer, strength coach, or physical therapist is bound to find something useful in this article.
+  Curl with Kettlebells
+  One drawback of traditional barbell or dumbbell curls is that the top portion of the lift isn’t overloaded. By using kettlebells you can augment the strength curve and place more tension at the top of the movement.
+  When maximal elbow flexion is reached with the kettlebell curl, the resistance moment arm is substantially further out compared to that of dumbbells and barbells.
+  For this reason, if you have access to kettlebells, try substituting them for barbell or dumbbell curls from time to time for varied stimulus.
+  Winding Titin – Actin/Myosin is Old-School; Now it’s All About Titin/Actin/Myosin
+  This is a very big deal for muscle mechanics, so pay close attention. For over 50 years our knowledge of muscular contractions has been flawed. Though we understood most of it, several critical questions remained unanswered, and textbooks failed to offer a complete picture.
+  The “sliding filament theory” involving actin-myosin cross-bridge formations was missing something important. Researchers have been searching for an “internal spring” for a while, and titin (also known as connectin, the largest protein in the body and the third most abundant protein in skeletal muscle tissue) has long been suspected to be this spring, but scientists haven’t proposed a plausible mechanism as to how.
+  Enter the work of some brilliant research papers by Nishikawa et al. (2012) and Monroy (published ahead of print).
+  I realize that this is a very complex topic so I’ll try to sum it up simply. Though direct proof hasn’t been witnessed yet and this is just a theory, most of the world’s top researchers in this specific area are confident based on logic and calculations that the following is what really goes down when muscles contract:
+  
+  Calcium causes titin to bind to actin while at the same time actin and myosin form cross-bridges.
+  The cross-bridge formation pulls and twists the actin (the action isn’t just a slide as the sliding filament model previously proposed since there’s a twisting component).
+  When the actin is twisted, since titin is bound to the actin, titin goes along for the ride.
+  The stretching and winding of titin creates stored elastic energy, which is now available for force enhancement.
+  
+  This theory explains much of the previously unanswered questions: it explains why skeletal and cardiac muscles have different length-tension properties (cardiac muscle is never stretched when active so it doesn’t receive the same spring-like benefits).
+  It also explains why activated muscles have enhanced force compared to passive muscles at identical lengths (active muscles store elastic energy through stretched titin, and the greater the stretch, the greater the force enhancement).
+  Finally, it explains why eccentric exercise is stronger and more cost-efficient than concentric exercise (due to the utilization of stored energy).
+  Here are two pictures that can aid in your understanding of this phenomenon, courtesy of the Royal Society:
+   
+  <img width=\"70%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/fig-1.jpg\" alt=\"Figure 1\" />
+  
+   
+  <img width=\"70%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/fig-2.jpg\" alt=\"Figure 2\" />
+  
+  Conventional Deadlift versus Hex Bar Deadlift
+  In the last installment of The Contreras Files, I discussed some of the benefits of hex bar deadlifting especially as it pertains to maximum power production. Many strength coaches prefer the hex bar deadlift to the conventional deadlift for its increased safety due to reduced spinal loading.
+  I prefer the conventional version. Why? I’m all about the hips!
+  Swinton and colleagues (2011) examined the joint moments (a moment is also known as torque, or “turning force”) during hexagonal and straight barbell deadlifts using submaximal loads up to 80% of 1RM. Here are their findings with the 80% of 1RM loads:Type of Deadlift
+  Peak Spine Moment
+  Peak Hip Moment
+  Peak Knee Moment
+  Peak Ankle MomentConventional
+  447 Nm
+  353 Nm
+  96 Nm
+  232 NmHex Bar
+  409 Nm
+  326 Nm
+  183 Nm
+  247 NmConsidering these results, calculations reveal that the conventional deadlift produces:
+  
+  9% greater peak spinal extension torques
+  8% greater peak hip extension torques
+  91% lower peak knee extension torques, and
+  6% lower peak ankle plantarflexion torques
+  
+  In comparison to the hex bar deadlift, the conventional deadlift requires more output from the spinal and hip extensors and less output from the knee extensors and ankle plantarflexors.
+  Considering the authors’ resistance moment arm data, calculations reveal that the conventional deadlift involves a 48% greater resistance moment arm at the hips, which explains the larger torques at this joint.
+  Here’s the way I see it. A strong case could be made for either variation’s superiority. One could argue that the hex bar deadlift is the safer of the two due to reduced spinal loading.
+  One could also argue that the hex bar deadlift is a more “well-rounded” lift due to its significantly greater knee extension torques (Stuart McRobert in Brawn referred to the exercise as a “squat-lift” since it’s more of a hybrid squat/deadlift exercise).
+  However, in strength and conditioning, we aren’t restricted to performing just one exercise. If I want to load up the knee joint (quadriceps), I’ll perform a squat, front squat, or Bulgarian split squat as these movements take the knee joint through a fuller range of motion.
+  If I want to load up the hamstrings, then I’ll perform a conventional or Romanian deadlift. If I want to load up the glutes I’ll perform a hip thrust. These are the exercises that produce the most torque loading on the joints, require the most muscle force from the associated muscles, and elicit the highest EMG activation for the associated muscles.
+  That’s my two cents!
+  Powerlifting Practices
+  In the last installment of The Contreras Files, I discussed the training practices of strongmen. In this installment, I’ll do the same for powerlifters.
+  Swinton et al. (2009) surveyed 28 elite British powerlifters and discovered the following:
+  
+  Only 46% performed their heavy sets as fast as possible (aiming for maximal speed).
+  82% used explosive training (using loads at 0-70% of 1RM with the goal of moving the load as fast as possible, sometimes referred to as dynamic-effort training).
+  No lifters ever went below 30% of 1RM for explosive training, and the most popular load range for this purpose was between 61-70%.
+  39% incorporated elastic resistance bands into their training and 57% incorporated chains, with the most common lift augmented with accommodating resistance being the bench press.
+  69% regularly performed Olympic lifts, with the clean variations being the most common Oly lifts employed.
+  Only 14% performed upper body plyometrics and 18% performed lower body plyometrics.
+  46% used a box for squatting (box squat).
+  57% used boards for bench pressing (board press).
+  Subjects felt that the box squat was the best assistance lift for squatting, the close-grip bench press was the best assistance lift for benching, and the platform deadlift (deficit deadlift) was the best assistance lift for the deadlift.
+  
+  Upper and Lower Abdominals: Don’t Think Aesthetics, Think Lumbopelvic Stability
+  It’s been said that “abs are built in the kitchen.” Research shows that the notion of spot-reduction for the abdominals is indeed a myth (Vispute et al. 2011). So if you’re looking to have nice abs, focus on getting lean through diet and general strength training.
+  However, there are certain individuals who seek to maximize the muscularity of their midsection, and these folks are often interested in targeting the upper or lower abs.
+  My EMG experiments have shown that it’s indeed possible to shift the emphasis toward the upper or lower abdominals depending on the exercise. If you’re seeking increased upper abdominal activation, perform trunk flexion exercises with a fixed pelvis such as a Swiss ball crunch.
+  But if you’re seeking increased lower abdominal activation, perform abdominal movements that posteriorly tilt the pelvis such as a reverse crunch. Or you could go with a “pillar chin up” where you prevent the pelvis from anteriorly tilting during a chin up, or an RKC plank (highlighted in the last installment of The Contreras Files).
+  The lower abdominal EMG and posterior pelvic tilt phenomenon was demonstrated by Sarti et. al. (1996) with the reverse crunch over fifteen years ago. Willet et al. (2001) demonstrated the same thing five years later, also with the reverse crunch, and Duncan (2009) showed the same with a Swiss ball jacknife maneuver.
+  If you want more evidence, Moreside et al. (2008) showed that experienced belly dancers could completely separate upper and lower abdominal activity during belly roll movements, and that the lower abs dominated the upper abs when pelvic motion was conducted upon a relatively fixed trunk.
+  Finally, research by Vera-Garcia et al. (2011) concluded that, “different neuromuscular compartments appear when the objective changes from pelvis to thorax motion.”
+  Many strength coaches scoff at the notion of attempting to target the upper or lower abdominals during training, but proper lumbar stability requires strong abdominals, particularly in the upper regions while proper pelvic stability requires strong abdominals, particularly in the lower regions. Both are needed for maximal lumbopelvic strength and stability.
+  Smitty Posture Corrector
+  Here’s a really cool posture-corrector (or better-yet “negative-posturing prevention exercise”) that I learned from Smitty. The bands essentially mimic what sitting at a computer does and you have to fight against the elastic resistance, which strengthens the muscles associated with good scapulothoracic and scapulohumeral posture.
+  From time to time I’ll bust out 2 x 10 reps with a pause at end-range. Here’s a video:
+   Squat versus Bulgarian Split Squat
+  Brand new research by Jones et al. (published ahead of print) showed that heavy squats and heavy Bulgarian split squats activated nearly identical levels of quadriceps, hamstrings, glute, and erector activity. This jives with my own EMG experiments.
+  However, the findings of McKurdy et al. (2010) suggest otherwise. They found that the Bulgarian split squat targeted more glute medius and hamstrings musculature but less quadriceps musculature.
+  Moreover, Testosterone responses were slightly greater following Bulgarian split squat compared to squats, despite the loads used in the single-leg movement were roughly half of those used in the double leg movement.
+  The researchers suggest that the increased stabilization demands could explain these findings, but I believe it has more to do with the rear leg contributing heavily in the Bulgarian split squat as my EMG experiments have shown that hip flexor muscle activation is through the roof during this exercise.
+  This is a good thing, as simultaneous activation and stretching of the hip flexors will keep the hip flexors flexible and strong at end ranges. It should be mentioned that McKurdy et al. found that during the Bulgarian split squat, the load on the front leg was approximately 85% of the total weight (body weight plus barbell weight), indicating that the front leg bears most of the load.
+  I’ve conducted some preliminary force plate data and have found that as the loads get heavier during Bulgarian split squats, the rear leg bears a much greater proportion of the load compared to bodyweight Bulgarian split squats.
+  My take is to do them both. Squats are great for increased spinal loading and greater hip range of motion, and Bulgarian split squats are great for offering less spinal loading, greater hip stabilization requirements, and rear-leg hip flexor stretch-activation.
+  Pause With the Floor Press
+  Many lifters perform the floor press as an assistance lift to build their bench press or emphasize the triceps during the pressing motion. I argue that lifters benefit more from this exercise when they pause for a full one-second count rather than rebounding from the eccentric phase right into the concentric phase.
+  Think of the floor press like a box squat – relax the pressing muscles for a brief moment at the bottom of the movement and then explode upward by rapidly turning-on the pressing musculature.
+  The American Deadlift: The Only Way to RDL
+  I no longer like the Romanian Deadlift (RDL) and believe that all lifters should be performing “The American Deadlift” or ADL.
+  What’s the difference? Well, the ADL is simply how all good RDL’s should look.
+  I rarely, if ever, see lifters use their glutes to their full extent during RDL’s. The gluteus maximus’ role as a posterior pelvic tilter is highly underdeveloped and building this capacity is essential for proper lumbopelvic functioning and lifting prowess.
+  Simply lower the load with an anterior pelvic tilt and lumbar extension while sitting back to really stretch the hamstrings (just as you would in a regular RDL), but on the way up transition into a forceful posterior pelvic tilt with maximal glute contraction.
+  It looks like this:
+   Cluster Training for the Deadlift
+  There are an infinite number of possible ways to arrange a cluster set, but here’s a specific protocol that I really like. Recently I put on some really loud music, loaded up the bar to 405 pounds (around 75% of my 1RM), and pulled ten explosive singles with about 10-15 seconds of rest in between reps (as much time as it took for me to walk around the inside perimeter of the training studio).
+  This was an awesome training stimulus and something I’ll try to do more often. To reiterate, the protocol is:
+  10 x 1 with 75% of 1RM with 10-15 sec. rest between sets
+  Remember to pull with maximal acceleration.
+  Wrap Up
+  I hope you enjoyed my ramblings and perhaps picked up something useful you can use in your own training.
+  In summary:
+  
+  Use kettlebells when curling occasionally to enhance end-range elbow-flexion torque.
+  Understand that titin plays a huge role in enhanced strength and stability in the stretched position of exercises, among other important roles in muscle energetics.
+  Perform conventional deadlifts over hex bar deadlifts for maximal hip extension torque.
+  Observe the practices of powerlifters and take notes (for example, perform box squats, close grip bench, and deficit deadlifts).
+  Know that the upper abdominals function uniquely compared to the lower abdominals, depending on whether the movement is thorax or pelvic driven.
+  Perform the Smitty posture corrector to prevent negative postural adaptations in the t-spine, scapulae, and shoulders.
+  Know that single-leg exercises can cause the body to pump out just as much Testosterone as double-leg exercises.
+  Pause on the ground for a moment when you floor press.
+  Don’t RDL anymore; from now on you ADL (posteriorly tilt the pelvis on the way up when you deadlift).
+  Consider using cluster training for deadlifts from time to time.
+  
+  See you next month!
+  References
+  
+  Duncan M. Muscle activity of the upper and lower rectus abdominis during exercises performed on and off a Swiss ball. J Bodyw Mov Ther. 2009. 13(4):364-7
+  Jones MT, Ambegaonkar JP, Nindl BC, Smith JA, Headley SA. Effects of bilateral lower-body heavy resistance exercise on muscle activity and testosterone responses. J Strength Cond Res. Published ahead of print.
+  McCurdy K, O’Kelley E, Kutz M, Langford G, Ernest J, Torres M. Comparison of lower extremity EMG between the 2-leg squat and modified single-leg squat in female athletes. J Sport Rehabil. 2010. (1):57-70.
+  Monroy JA, Powers KL, Gilmore LA, Uyeno TA, Lindstedt SL, Nishikawa KC. What is the role of titin in active muscle? Exerc Sport Sci Rev. Published ahead of print.
+  Moreside JM, Vera-Garcia FJ, McGill SM. Neuromuscular independence of abdominal wall muscles as demonstrated by middle-eastern style dancers. J Electromyogr Kinesiol. 2008. (4):527-37.
+  Nishikawa, K.C., J.A. Monroy, T.A. Uyeno, S.H, Yeo, D.K. Pai & S.L. Lindstedt. 2011. Is titin a winding filament? A new twist on muscle contraction. Proceedings of the Royal Society B. 2012. (1730):981-90.
+  Sarti MA, Monfort M, Fuster MA, Villaplana LA. Muscle activity in upper and lower rectus abdominus during abdominal exercises. Arch Phys Med Rehabil. 1996 Dec;77(12):1293-7.
+  Swinton PA, Stewart A, Agouris I, Keough JWL, and Lloyd R. A biomechanical analysis of straight and hexagonal barbell deadlifts using submaximal loads. J Strength Cond Res. 2011. 25(7) 2000-9.
+  Swinton PA, Lloyd R, Agouris I, and Stewart A. Contemporary training practices in elite British powerlifters: Survey results from international competition. J Strength Cond Res. 2009. 23(2) 380-4.
+  Vera-Garcia FJ, Moreside JM, McGill SM. Abdominal muscle activation changes if the purpose is to control pelvis motion or thorax motion. J Electromyogr Kinesiol. 2011. 21(6):893-903
+  Vispute SS, Smith JD, LeCheminant JD, Hurley KS. The effect of abdominal exercise on abdominal fat. J Strength Cond Res. 2011. 25(9)2559-65.
+  Willett GM, Hyde JE, Uhrlaub MB, Wendel CL, Karst GM. Relative activity of abdominal muscles during commonly prescribed strengthening exercises. J Strength Cond Res. 2001. 15(4):480-5."

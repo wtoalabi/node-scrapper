@@ -1,0 +1,70 @@
+"Here’s what you need to know…
+  
+  The ideal time under tension (TUT) for hypertrophy is debatable. Even a short TUT can induce growth in an advanced lifter if enough sets are performed.
+  Volume programs using submaximal loads will increase muscle size, but the effect is transient.
+  Higher intensity programs favored by powerlifters build longer lasting size, not to mention greater strength.
+  A great way to achieve maximal muscle growth is to combine heavy and moderate loads.
+  
+  Can 10 sets of 3 get you just as much size as 3 sets of 10? In short, yes, but the type of hypertrophy you experience is different. Let me explain. In strength training, time under tension (TUT) reflects the total duration of a set and is calculated by multiplying the number of reps by the tempo or speed of execution of each rep. For example, if 10 reps are performed in a set and each rep takes 6 seconds to complete (2 seconds to raise the weight and 4 seconds to lower it), then the TUT is 60 seconds.
+  Various opinions exist regarding the ideal TUT for hypertrophy. Based on studies, some believe that the most effective TUT range for muscle mass development is 48-72 seconds per set. Others, however, suggest a minimum of 36 seconds of continuous tension. Then there are those who recommend a lower minimum tension time of 30 seconds for significant muscle size stimulation.
+  Strength coach Charles Poliquin goes one step further and says that muscles with a greater slow-twitch composition require a TUT of 40 seconds or more for optimal development, and muscles with a greater fast-twitch composition respond best to sets completed in approximately 20-40 seconds.
+  To make matters even more confusing, you probably need to take into account your level of training, because as the training age increases, the average duration of a set needed to elicit the same training effect decreases. In other words, a TUT below the 20-40 second range recommended by Poliquin can induce hypertrophy in an advanced trainee, assuming enough sets are performed. Many massive weightlifters and powerlifters who typically train with low reps are great examples.
+  After reviewing literature on the topic and data compiled on my clients, here are some figures to reflect the training effect associated with TUT according to the level of the trainee: beginner (less than 1 year of training), intermediate (1-2 years of training), and advanced (over 2 years of training).
+  TUT (seconds)Beginner
+  Intermediate
+  Advanced
+  Training Effect1-20
+  1-15
+  1-10
+  Strength and Power20-40
+  15-30
+  10-20
+  Strength and Hypertrophy (FT fibers)40-60
+  30-50
+  20-40
+  Hypertrophy (mixed fibers)60-120
+  50-90
+  40-60
+  Hypertrophy (ST fibers)120+
+  90+
+  60+
+  EnduranceLow-Rep, High Sets vs. High-Rep, Low Sets
+  There are certain instances where a TUT over 2 minutes in length may also promote hypertrophy. For example, cycling for an hour at a decent pace will increase endurance, but if you encounter enough hills (i.e. high-intensity work intervals), your thighs will probably grow.
+  The key lies in the total time that a muscle was in tension above a minimum threshold. Most literature on the topic suggests 60% 1RM as the minimum threshold required to elicit a significant strength training effect. If you perform a 40-60 second TUT at a slow pace with a light load, the intensity may be too low to achieve sufficient hypertrophy. Therefore, the training effect is influenced by the amount of force (tension) and the duration of the stimulus as illustrated below.
+   
+  <img width=\"90%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/Threshold_Tension.jpg\" alt=\"Threshold Tension\" />
+  
+  The figure here demonstrates the tension-time effect above a minimum threshold for two different methods of strength training (adapted from Siff, 2000). Consider the maximal load curve as a 10 sets of 3RM protocol, and the submaximal curve as a 3 sets of 10RM protocol.
+  As you can see, the area above the minimum threshold tension for each curve can be the same using maximal and submaximal loads, and thus both methods of training can induce hypertrophy. Of course, muscular strength is related to intensity (load) and size requires volume (a high quantity of work). Most volume programs that use submaximal loads will increase muscle size, but the effect is transient.
+  The pump experienced from the high volume of work will cause edema and swelling of the muscles for only a few hours. To sustain these gains in muscle mass, frequent stimulation must occur. When the proper conditions are met, you get an increase in the volume of non-contractile protein and semi-fluid plasma between muscle fibers. This is known as sarcoplasmic hypertrophy – the typical bodybuilder displays this form of nonfunctional hypertrophy.
+  Unfortunately, muscular strength doesn’t reflect its cross-section in this scenario. Many bodybuilders who train in this manner are big, but they aren’t necessarily strong, at least for their size. As Pavel Tsatsouline states, “Don’t judge a man’s strength by the size of his biceps.”
+  On the other hand, myofibrillar hypertrophy involves an increase in contractile protein and filament density. This form of functional hypertrophy, common in strength and power athletes, is chronic and long lasting, where muscular strength does reflect its cross-section. To accomplish this kind of adaptation, you need to achieve a sufficient volume of work with heavy, maximal loads. Since the load is high and the reps are low, a high number of sets are required. The effect is then sustained if the stimulus is repeated often enough.
+   
+  <img width=\"90%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/Myofibrillar_Hypertrophy.jpg\" alt=\"Myofibrillar Hypertrophy\" />
+  
+  A great way to achieve maximal muscle growth (sarcoplasmic and myofibrillar hypertrophy) is to combine heavy and moderate loads in your training. Let’s say you were working chest and back. The following workout prescription combines low-rep, high-set training for myofibrillar hypertrophy, and high-rep, low-set training for sarcoplasmic muscle growth: 
+  Exercise
+  Sets
+  Reps
+  Tempo
+  RestA1
+  Incline Bench Press
+  10
+  3
+  5-0-1-0
+  90 sec.A2
+  Lean-Away Pull-up
+  10
+  3
+  5-0-1-0
+  90 sec.B1
+  Flat Neutral-Grip Dumbbell Press
+  3
+  10
+  3-0-1-0
+  60 sec.B2
+  One-Arm Neutral-Grip Dumbbell Row
+  3
+  10
+  3-0-1-0
+  60 sec.If you’re looking for the strength and density of a powerlifter along with the size and symmetry of a bodybuilder, then a blend of heavy and moderate training is the answer."

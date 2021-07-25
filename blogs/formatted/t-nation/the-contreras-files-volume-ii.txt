@@ -1,0 +1,404 @@
+"Most of you likely spent the holidays relaxing with family and friends while assaulting your senses with food, alcohol, and the new Justin Bieber Christmas album. But while you were out decking the halls in your gay apparel, I was poring over the latest strength and conditioning research so you can kick off 2012 on the right foot. The typical lifter, athlete, personal trainer, strength coach, or physical therapist is bound to find something useful in this article.
+  Stretching and DOMS
+  DOMS (delayed-onset muscle soreness) typically arises within a day of exercise and peaks in intensity at around 48 hours. Many strength & conditioning practitioners believe that stretching before or after exercise will reduce soreness.
+  Henschke and Lin (2011) reviewed the research on this topic and concluded that stretching does not affect muscle soreness. Twelve total studies were included with a combined 2,377 participants. Pooled estimates showed that pre- and post-exercise stretching reduced soreness on average by one point on a 100-point scale one day following exercise, increase soreness on average by one point on a 100-point scale two days following exercise, and had no effect on soreness by day three.
+  Findings were consistent across settings (lab vs. field studies), types of stretching, intensity of stretching, populations (athletic, untrained, men, women) and study quality, so the conclusions are not likely to change with future research. To reiterate, stretching doesn’t affect muscle soreness.
+  Power Lifts versus Olympic Lifts – Peak Power Outputs
+  For decades coaches have argued about whether Olympic lifting is mandatory for athletes seeking maximal power production. Some coaches are strong advocates of Olympic variations based on the premise that Olympic lifts produce much higher power outputs compared to the powerlifts (Garhammer, 1993).
+  This may be true for maximal Olympic lifts compared to maximal power lifts, but this is because maximum power is derived with differing loads in the Olympic lifts compared to the power lifts. Maximum power is obtained with much heavier loads relative to 1RM with Olympic lifts, whereas with power lifts, maximum power is achieved with much lighter loads relative to 1RM.
+  Data from Garhammer (1980) showed that the highest peak power outputs involved in elite Olympic weightlifters belonged to lifters from the 110kg weight class. These lifters developed 4,807 watts of power during certain phases of the Olympic lifts. Examining the power clean, Winchester et al. (2005) reported maximum power values of 4,230 watts while Cormie et al. (2007) reported maximum power values of 4,900 watts.
+  A recent study examining 23 powerlifters and rugby players showed that deadlifts at 30% of 1RM produced 4,247 watts of power (Swinton et al., 2011a). This is slightly less than values reported by the same researchers in another recent study, which showed that peak power in a straight bar deadlift was 4,388 watts (at 30% of 1RM) while peak power in a hex bar deadlift was 4,872 watts (at 40% of 1RM). In fact, some individuals were able to reach values over 6,000 watts in the submaximal deadlifts (Swinton et al., 2011b).
+  The Olympic weightlifting versus powerlifting debate will undoubtedly continue to rage, but this emerging research should provide some interesting fuel to the equation. Considering the available research, it appears that dynamic effort hex bar deadlifts with 40% of 1RM can match the Olympic lifts – including the power clean – in peak power production.
+  Full ROM Versus Partials for Hypertrophy
+  Several studies have been conducted measuring the effects of full range of motion (ROM) lifts versus partial ROM lifts on maximal strength, but until now no study had measured the effects of full ROM lifts versus partial ROM lifts on hypertrophy.
+  Ronei et al. (published ahead of print) found that performing two sessions/week of preacher curls for ten weeks with full ROM (0° to 130° of elbow flexion) resulted in significantly higher muscle thickness gains in the biceps compared to the partial ROM group (50° to 100° of elbow flexion). The full ROM group increased hypertrophy by 9.52%, whereas the partial ROM group only by 7.37%, although the volume for the full ROM group was 36% lower than that of the partial ROM group.
+  The subjects used in this study lacked resistance training experience, so conclusions should be limited to newbies. Based on this research, newbies should use a full ROM to maximize hypertrophic adaptations.
+  Sprint Acceleration – Everything Works
+  Australian researchers recently came up with a very cool study – they examined the effects of four different protocols (free sprinting, weights, plyometrics, and resisted sprinting) on sprint acceleration performance (Lockie et al., published ahead of print). Subjects consisted of field athletes who were already training at least three hours per week. Respective additional training sessions were performed twice per week for 60 minutes each for six total weeks.
+  Here are the highlights:
+  
+  All groups significantly increased their 0-5 meter and 0-10 meter velocity by 9-10%.
+  All groups significantly increased their mean step length.
+  The weights and plyometrics groups also significantly increased their 5-10 meter velocity.
+  The free sprinting group significantly increased their 5-bound test, a measure of horizontal power.
+  The free sprinting, plyometrics, and resisted sprinting groups significantly increased their reactive strength index (jump height divided by contact time), a measure of elastic strength.
+  All groups significantly increased their 3RM squat and relative 3RM squat, with the weights group showing the largest increases in strength.
+  All groups increased their speed through increases in stride length, not by way of increases in stride frequency or decreased contact time.
+  
+  This study showed that the underlying mechanisms for improvements were protocol-specific. Prior research has shown that combined training yields even greater results than using one specific method (Kotzamanidis et al. 2005), so chances are even better results could be realized if multiple protocols were trained concurrently.
+  Moreover, the weights group performed just vertical plane exercises consisting of squats, step ups, hip flexion, and calf raises. It’s possible that the weights group could have seen even better results had the researchers added in a horizontal hip strengthening exercises such as a hip thrust or a back extension.
+  The Kettlebell Swing
+  Brand new research by McGill and Marshall (published ahead of print) has taken a close look at the kettlebell swing. Swings were performed one arm at a time with a 16kg kettlebell and were initiated with the participant in the squat position with a neutral spine. Participants were cued to “initiate the swing through the sagittal plane by simultaneously extending their hips, knees and ankles and to use the momentum to swing the kettlebell to chest level and return to their initial starting position.”
+  Here are the highlights:
+  
+  Lumbar spine ROM ranged from 26 degrees of flexion at the bottom of the movement to 6 degrees of extension at the top of the movement.
+  Hip ROM ranged from 75 degrees of flexion at the bottom of the movement to 1 degree of extension at the top.
+  Knee ROM ranged from 69 degrees of flexion to 2 degrees of extension.
+  As the movement progressed from the bottom of the swing to the top of the swing, back muscle activation peaked first at around 50% of MVC, followed by abdominal/oblique activation at around 20-30% of MVC, followed by gluteal muscle activation at around 75% of MVC.
+  The glutes were closely associated with end-range hip extension torque.
+  Spinal loading was greatest in the beginning of the swing (461N of shear and 3195N of compression), which dropped significantly as the ROM progressed to the middle of the swing (326N of shear and 2328N of compression) and finally to the top of the swing (156N of shear and 1903N of compression).
+  The effort is mostly concentric as gravity assists most of the eccentric component of the swing.
+  Muscle activation ramps up during a half-second interval in the concentric phase and then transitions to almost complete relaxation during much of the eccentric phase.
+  
+  Russian kettlebell master Pavel Tsatsouline participated in this study and was able to reach 150% MVC in his erector spinae and 100% MVC in this gluteal muscles with just a 32kg kettlebell.
+  Muscle, Smoke & Mirrors
+  
+  <img src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/MsM.jpg\" alt=\"Muscle Smoke and Mirrors\" />
+  
+  One of my American strength coach buddies in Auckland gave me an amazing book to read during my free time titled Muscle, Smoke & Mirrors: Volume I. Randy Roach, the author, spent considerable time researching the history of bodybuilding, from the origins of physical culture through the rise of the iron game. You may recall T Nation contributor Chris Colucci interviewing Randy about the book in 2009 in The Dark Side of Bodybuilding.
+  I was very interested in learning more about some of the personalities of the characters who helped mould and shape the industry, including the Weiders, Bob Hoffman, and Vince Gironda to name a few. Though geniuses, most of our founders seem like eccentric and overly arrogant egomaniacs.
+  You’ll certainly find it interesting to learn about the “Weider Research Clinic,” not to mention the origins of various debates such as those pertaining to the squat exercise or training for strength versus size, and finally the infiltration of anabolic steroids.
+  I definitely recommend this book to anyone interested in the bodybuilding and nutrition industries as it’s important to know and understand their roots and progression.
+  Strongman Training
+  A study has finally been conducted examining the training methods of strongman competitors. Until now no such study existed. Winwood et al. (2011) surveyed 167 strongmen from 20 different countries on a variety of training topics.
+  Here are the highlights:
+  
+  66% of strongmen reported that the back squat was the most frequently performed type of squat. Front squats were often performed as well.
+  88% of strongmen reported that the conventional deadlift was the most frequently performed type of deadlift. Partial deadlifts were often performed as well.
+  80% of strongmen periodize their training and 83% use a training log.
+  74% of strongmen perform hypertrophy training, 97% of strongmen perform maximal strength work, 90% of strongmen perform power training, and 90% of strongmen perform aerobic/anaerobic conditioning.
+  60% of strongmen perform dynamic effort squats and deadlifts (explosive reps with submaximal loads), 56% use elastic bands, and 38% use chains.
+  88% of strongmen incorporate Olympic lifting into their arsenals with 78% performing the clean. The jerk, snatch and high pull were frequently performed as well.
+  54% of strongmen perform lower body plyometrics, 29% upper body plyometrics, and 20% ballistics (i.e., jump squat, bench throw).
+  55% of strongmen perform HIIT and 53% perform low intensity cardio.
+  54% of strongmen competitors train with strongman implements once per week and 24% train with strongman implements twice per week.
+  82% of strongmen perform the tire flip, 95% perform the log clean and press, 94% perform the stones, 96% perform the farmers walk, and 49% perform the truck pull. Other strongman implements and exercises performed included various types of overhead presses (Viking, sleeper press, and dumbbells), carries (Conan’s wheel, shield, hydrant, and frame), pulls (harness, arm over arm, ropes, and chains), walks (duck and yoke), lifts (safe, kettlebells, and car deadlifts), holds (crucifix), and grip exercise (block, hand, and tools).
+  
+  Low Back Loads
+  Many trainees fail to grasp spinal loading, in terms of both biomechanics and in common levels reached during functional movement, sports, and exercise. To help address this poorly understood topic, I created a chart below involving over twenty different studies.
+  Before you delve into this chart and start analyzing the data, there are a few things you should understand:
+  
+  First, if you want to convert Newtons to pounds, know that one Newton equals .224808943 pounds of force. Conversely, one pound of force is equal to 4.44822162 Newtons. You can use these numbers to convert back and forth from pounds to Newtons and vice versa. For example, in Cholewicki’s deadlift study, 17,192N of compressive force equates to (17,942N)(.224808943 lbs/N) = 4,034 pounds of force.
+  The reason why such incredible compressive forces are placed on the spine during deadlifts has a lot to do with the intense contractions of core muscles needed to support the spine. These muscles clamp down on the spine, causing compressive forces to far exceed the load of the barbell. Granhed’s study used a slightly lower moment-arm measurement for the spinal extensor musculature (5 cm compared to 6 cm) than Cholewicki’s study that helps explain the larger values reported.
+  Due to the orientation of the various vertebrae, joint shear force estimates are highly dependent on the vertebral level examined. For example, L5/S1 is inclined forward around 30° more than L4/L5, causing it to receive much higher shear forces. For this reason, comparisons should only be made between studies examining the same vertebral level (and even then methodology differences complicate matters). Moreover, shear forces can be directed anteriorly or posteriorly; this chart doesn’t specify the direction of forces.
+  
+  Compressive Loading/Shear Loading (Anterior/Posterior)Activity
+  Site
+  Compressive
+  Shear
+  First AuthorGolf swing
+  L3/L4
+  6,100-7,500N
+  N/A
+  HoseaRowing
+  L3/L4L4/L5
+  6,086N4.6x bodyweight
+  N/A660N
+  HoseaMorrisFootball linemen blocking manoeuvre
+  L4/L5
+  8,679N
+  3,304N(2.6x bodyweight)
+  Gatt
+  
+  Functional Tasks
+  Site
+  Compressive
+  Shear
+  First AuthorLifting a 50 pound box from knee to waist height
+  L5/S1
+  6,000-7,000N
+  1,200-1,600N
+  MarrasLifting a 33 pound box
+  L5/S1
+  6,342N
+  1,755N
+  KingmaPushing and pulling at waist height with 40% of bodyweight
+  L2/L3
+  N/A
+  1,100-1,200N
+  Knapik
+  
+  Squatting
+  Site
+  Compressive
+  Shear
+  First AuthorHalf squat w/loads of .8-1.6x bodyweight
+  L3/L4
+  10x bodyweight *
+  N/A
+  CappozzoTraditional squat
+  L5/S1
+  10,473N
+  3,843N
+  LanderIsometric squat
+  L3
+   6,248-11,497N
+  420-906N
+  Hansson* e.g., 7,000N for a 70kg individualDeadlifting
+  Site
+  Compressive
+  Shear
+  First AuthorWomen
+  L4/L5
+  6,400N
+  1,107N
+  CholewickiMen
+   
+  12,641N
+  1,739N
+   Conventional
+   
+  10,738N
+  1,643N
+   Sumo
+   
+  10,405N
+  1,530N
+   Maximum value
+   
+  18,449N
+  N/A
+   Combined (sumo and conventional)
+  L3/L4
+  18,800-36,400N
+  N/A
+  GranhedRound back
+  L4/L5
+  N/A
+  1,900
+  McGillIsometric deadlift
+  L3
+  6,785-8,898N
+  729-1012N
+  Hansson
+  
+  Abdominal Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorStraight leg sit up
+  L4/L5
+  3,230N
+  260N
+  McGillBent knee sit up
+   
+  3,410N
+  300N
+   Straight leg sit up
+  L4/L5
+  3,502N
+  N/A
+  AxlerBent knee sit up
+   
+  3,350N
+   
+   Crunch
+   
+  1,991N
+   
+   Lying leg raise
+   
+  2,525N
+   
+   Twisting crunch
+   
+  2,964N
+   
+   Hanging straight leg raise
+   
+  2,805N
+   
+   Hanging bent knee leg raise
+   
+  3,313N
+   
+   Side plank
+   
+  2,585N
+   
+   Standing cable walkout
+  L4/L5
+  2,743-4,185N
+  464-714N
+  McGillOverhead cable push
+   
+  2,327-3,006N
+  584-760N
+   Isometric axial twist
+  L5/S1
+  3,382-4,158N
+  1,409-1,688N
+  Arjmand
+  
+  Low Back Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorQuadruped hip ext
+  L4/L5
+  2,000N
+  150N
+  CallaghanBird dog
+   
+  3,000N
+  200N
+   Superman
+   
+  4,000N
+  50N
+   Back extension
+   
+  4,000N
+  250N
+   Bridge
+  L4/L5
+  2,853N
+  N/A
+  KavcicStanding isometric back extension
+  L5/S1
+  1,400-1,600N
+  950-1,100N
+  Kingma
+  
+  Kettlebell Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorSwing
+  L4/L5
+  3,195N
+  461N
+  McGillSwing to snatch
+   
+  2,992N
+  404N
+   
+  
+  Strongman Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorFarmer’s walk
+  L4/L5
+  9,876N
+  2,409N
+  McGillSuper yoke
+   
+  12,043N
+  1,341N
+   Atlas stone lift
+   
+  5,659N
+  635N
+   Suitcase carry
+   
+  6,890-9,061N
+  1,520-2,143N
+   Keg walk
+   
+  6,591-8,412N
+  913-1,249N
+   Tire flip
+   
+  7,921N
+  138N
+   Log lift
+   
+  7,270N
+  1,021N
+   
+  
+  Rowing Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorBent over row
+  L4/L5
+  3,576N
+  87N
+  McGillInverted row
+   
+  2,339N
+  76N
+   Cable row
+   
+  2,457N
+  130N
+   
+  
+  Push Up Exercises
+  Site
+  Compressive
+  Shear
+  First AuthorStandard
+  L4/L5
+  2,900N
+  490N
+  BeachSuspended
+   
+  3,800N
+  520N
+   Standard
+  L4/L5
+  1,838N
+  N/A
+  FreemanExplosive
+   
+  3,905N
+   
+   Clapping
+   
+  4,699N
+   
+   One arm
+   
+  5,848N
+   
+   Alternating
+   
+  6,224N
+   
+   In 1981 the NIOSH set action limits for compression at 3,400N with maximum permissible limits at 6,300N. Some spinal experts have suggested that maximum shear loads should be limited to 1,000N.
+  As you can see, much of what we do on the field or in the weight room exceeds these limits (sometimes by a large margin). Many coaches vilify certain exercises based on the levels of spinal loading they produce only to prescribe alternative exercises that exceed the levels reached in the exercises they discourage. Hopefully this chart will assist coaches with logical consistency in exercise prescription decision-making.
+  Neck Training
+  Coaches have long debated whether specific neck training is necessary for maximum neck strength and size. Some say that neck isolation lifts are needed, while others say that posterior chain exercises such as squats, deadlifts, shrugs, and bent over rows will build all the necessary neck strength and size.
+  I recently located a study conducted in 1997 by researchers out of The University of Georgia that took a close look at the topic of training for neck strength and size (Conley et al., 1997). One group performed 12 weeks of squats, push presses, rack pulls, shrugs, RDL’s, bent over rows, and crunches.
+  Another group added in neck harness extensions. Group number one failed to increase their neck extension strength and neck size, whereas group number two saw a 34% increase in neck extension strength and a 13% increase in the cross-sectional area of selected neck muscles (mostly the splenius capitis, semispinalis capitis, semispinalis cervicis and multifidus). Take home message: If maximum neck size and strength is important to you, then make sure you perform some isolation exercises for the neck.
+  Yin and Yang Planks: The Hardstyle Plank
+  RKC creator Pavel Tsatsouline likes to talk about yin and yang planks. Yin planks are performed by simply chillaxin’ in the plank position. You might think your 3-minute plank is pretty badass, but George Hood, a 54-year-old former Marine and DEA Agent, recently shattered your best plank performance by a long shot. On December 3, 2011, in Naperville, Illinois, Hood held a plank for 1 hour, 20 minutes, and 5 seconds. You read that correctly – over 80 minutes! While incredibly impressive, this is an extreme example of a Yin plank, since it can be held for a prolonged period of time. Here’s a video highlighting Hood’s performance:
+   A yang plank, on the other hand, is done with an all-out performance in a shorter period of time. Allow me to introduce the RKC plank.
+  The RKC plank is a reverse-engineered core exercise that’s evolved into a brutal full body iso-hold. The RKC plank is also called the “Hardstyle Plank,” and when done right, wipes you out completely after only 10 seconds.
+  Pavel likes to teach his students the “yang” plank and show them how they can completely exhaust their bodies through maximum static exertion. The RKC plank has you manipulating whole body muscle tension to generate maximum internal work from the plank position.
+  Though you won’t be moving – it’s a static exercise – you’ll be engaging in an all-out 10-second isometric war by applying torque to joints that are locked into the ground by gravity. Pavel has all sorts of nifty cues that he’s come up with and will even teach you how to breathe efficiently for maximum performance, but I’m a straight up biomechanics geek so my instructions will be very cut and dry. Here’s the RKC plank in 10 not-so-easy steps:
+  
+  Get into standard plank position.
+  Make sure the neck is in neutral and there’s a straight line from the head to the toes.
+  Keep the forearms in neutral and the elbows placed directly underneath the armpits.
+  Make tight fists with the hands to allow for irradiation (meaning the tension is so high that it “spills” over into the other muscles).
+  Keep the shoulders back and down and screw them into place through an external rotation torque.
+  Contract the quadriceps forcefully to lock out the knees (you’ll be surprised how high they go).
+  Squeeze the thighs together through an adduction torque.
+  Pull the elbows down to the toes with the lats.
+  Pull the toes up to the elbows via the abs and hip flexors, thereby creating a hip flexion torque at the hips (i.e. a pike).
+  Forcefully contract the gluteus maximus to a) counter the hip flexion moment (pike) and keep the hips extended, b) counternutate the sacrum to allow for proper inner core unit function, and c) posteriorly tilt the pelvis which decreases residual tension on the hip flexors and lumbar spine and increases residual tension on the gluteals and abdominals (when the knees are locked your pelvis won’t rotate much).
+  
+   It takes some time to get this right – don’t expect to master it the first time you try it. Pick a couple points at a time and eventually you’ll have all of it down pat. When you finally get it right, you’ll never question the level of challenge provided by a plank ever again. I’ve been teaching the hardstyle plank to trainers and it’s an instant hit as within 10-20 seconds they’re shaking and convulsing.
+  Conclusion
+  I hope you enjoyed my ramblings and perhaps picked up something useful you can use in your own training.
+  In summary:
+  
+  Stretching doesn’t do jack squat for reducing muscle soreness.
+  Perform explosive hex bar deadlifts with 40% of 1RM and you’ll register just as high of power outputs as you would in an Olympic lift.
+  Full range movements trump partials for strength and hypertrophy.
+  Multiple methods including weights, sprints, sled work, and plyos will improve acceleration performance.
+  Kettlebell swings are a great glute activator that builds terminal range hip extension power.
+  Read Muscle, Smoke and Mirrors to gain an appreciation of our industry’s roots.
+  Strongmen incorporate many types of training into their arsenals, including hypertrophy, strength, power, and conditioning work.
+  Many things we do on the field or in the weight room far exceed spinal loading safety limits.
+  If you want a big and strong neck, train it specifically.
+  Hardstyle (RKC) planks rock the standard plank’s world.
+  
+  References
+  
+  Conley MS, Stone MH, Nimmons M, Dudley GA. Specificity of resistance training responses in neck muscle size and strength. 1997. Eur J Appl Physio. 75: 443-48.
+  Cormie, P, McCaulley, GO, Triplett, TN, and McBride, JM. Optimal loading for maximal power output during lower-body resistance exercises. Med Sci Sports Exerc. 39: 340–349, 2007.
+  Garhammer, J. Power production by Olympic weightlifters. 1980. Med Sci Sports Exerc. 12(1):54-60.
+  Garhammer, J. A review of power output studies of Olympic and powerlifting: methodology, performance prediction, and evaluation tests. J Strength Cond Res. 7: 76–89, 1993.
+  Henschke N and Lin CC. Stretching before or after exercise does not reduce delayed-onset muscle soreness. 2011. Br J Sports Med. 45: 1249-50.
+  Kotzamanidis C, Chatzopoulos D, Michailidis C, Papaiakovou G, Patikas D. The effect of combined high-intensity strength and speed training program on the running and jumping ability of soccer players. 2005. J Strength Cond Res. 19(2) 369-75.
+  Lockie RG, Murphy AJ, Schultz AB, Knight TJ, Janse de Jonge XAK. The effects of different speed training protocols on sprint acceleration kinematics and muscle strength and power in field sport athletes. J Strength Cond Res. Published ahead of print.
+  Ronei PS, Gomes N, Radaelli R, Botton CE, Brown LE, and Bottaro M. Effect of motion on muscle strength and thickness. J Strength Cond Res. Published ahead of print.
+  Swinton PA, Stewart AD, Keough JWL, Agouris I, and Lloyd R. Kinematic and kinetic analysis of maximal velocity deadlifts performed with and without the inclusion of chain resistance. 2011a. J Strength Cond Res. 25(11) 3163-74.
+  Swinton PA, Stewart A, Agouris I, Keough JWL, and Lloyd R. A biomechanical analysis of straight and hexagonal barbell deadlifts using submaximal loads. J Strength Cond Res. 2011b. J Strength Cond Res. 25(7) 2000-9.
+  Winchester, JB, Erickson, TM, Blaak, JB, and McBride, JM. Changes in bar-path kinematics and kinetics after power-clean training. J Strength Cond Res. 19: 177–183, 2005.
+  Winwood PL, Keogh JWL, Harris NK. The strength and conditioning practices of strongman competitors. 2011. J Strength Cond Res. 25(11)3118-28."

@@ -1,0 +1,97 @@
+"How the Mutants Do It
+  World-record deadlifter Andy Bolton squatted 500 and deadlifted 600 the very first time he tried the lifts.
+  Former Mr. Olympia Dorian Yates bench-pressed 315 pounds on his first attempt as a teen.
+  Metroflex Gym owner Brian Dobson tells the story of his first encounter with then-powerlifter and future Mr. Olympia Ronnie Coleman. He describes Ronnie’s enormous thighs with veins bulging through the spandex, despite the fact that Ronnie had never used an anabolic steroid at that time.
+  Arnold Schwarzenegger looked more muscular after one year of lifting than most people do after ten.
+  It’s just plain obvious that some individuals respond much better to training than others. But what makes the elite respond so much better than us regular folks?
+  Genetics: The Cold Hard Truth
+  This probably isn’t what you want to hear, but your progress is largely dependent on your genetics.
+  Recent research shows that some individuals respond very well to strength training, some barely respond, and some don’t respond at all. You read that correctly. Some people don’t show any noticeable results. Researchers created the term “non-responders” for these individuals.
+  A landmark study by Hubal used 585 male and female human subjects and showed that twelve weeks of progressive dynamic exercise resulted in a shockingly wide range of responses.
+  The worst responders lost 2% of their muscle cross-sectional area and didn’t gain any strength whatsoever. The best responders increased muscle cross-sectional area by 59% and increased their 1RM strength by 250%. Keep in mind these individuals were subjected to the exact same training protocol.
+  The Hubal study isn’t the only study showing these types of results. Petrella showed that 16 weeks of progressive dynamic exercise involving 66 human subjects failed to yield any measurable hypertrophy in 26% of subjects. Wow, sucks to be them!
+  Now, the question is, what mechanisms explain this? Let’s dig into the current research.
+  How Genetics Affect Muscle Growth
+  Strong evidence suggests that the results you see in the gym are highly dependent on the efficacy of satellite cell-mediated myonuclear addition. In laymen’s terms, your muscles won’t grow unless the satellite cells surrounding your muscle fibers donate their nuclei to your muscles so they can produce more genetic material to signal the cells to grow.
+  Petralla showed that the difference between excellent responders in comparison to average and non-responders in strength training was mostly due to satellite cell activation. Excellent responders have more satellite cells that surround their muscle fibers, as well as a remarkable ability to expand their satellite cell pool via training.
+  In this study, excellent responders averaged 21 satellite cells per 100 fibers at baseline, which rose to 30 satellite cells per 100 fibers by week sixteen. This was accompanied by a 54% increase in mean fiber area. The non-responders averaged 10 satellite cells per 100 myofibers at baseline, which did not change post-training, nor did their hypertrophy.
+  A different article by Bamman using the same researchers involving the exact same experiment showed that out of 66 subjects, the top 17 responders experienced a 58% gain in cross-sectional area, the middle 32 responders gained 28% cross-sectional area, and the bottom 17 responders didn’t gain in cross-sectional area. In addition:
+  
+  Mechanogrowth factor (MGF) upregulated 126% in the top 17 responders and 0% in the bottom 17 responders.
+  Myogenin upregulated 65% in the top 17 responders and 0% in the bottom 17 responders.
+  IGF-IEa upregulated 105% in the top 17 responders and only 44% in the bottom 17 responders.
+  
+  Research by Timmons indicates that there are several highly expressed miRNAs that are selectivity regulated in subjects representing the lowest 20% of responders in a longitudinal resistance training intervention study.
+  Research by Dennis showed that individuals who have high expression of key hypertrophy genes have a distinct adaptive advantage over normal individuals. Individuals with lower baseline expression of key hypertrophy genes showed less adaptations to strength training, despite the fact that training did increase their gene expression in response to exercise.
+  The Bottom Line
+  Some folks hit the genetic jackpot, while others have gotten the genetic shaft. Genetically-speaking, anything that negatively impacts the ability of the myofibers to increase their number of myonuclei in response to mechanical loading will reduce hypertrophy and strength potential.
+  This ranges from the number of signaling molecules, to the cell’s sensitivity to the signals, to satellite cell availability, to satellite cell pool expansion, to miRNA regulation. Nutrition and optimal programming play a role in hypertrophy of course, and certain genotypes may be associated with hypertrophy too.
+  Genetics and Body Fat
+  Genes can affect fat storage and fat loss by influencing energy intake, energy expenditure, or nutrient partitioning. Researchers have coined the term “obesogenic environment” to describe the manner in which our changes in lifestyle over the past century has exposed our underlying genetic risk factors for excessive adiposity.
+  Natural selection may have favored those who possessed genes associated with thrifty metabolisms, which would have allowed for survival during times of nutrient scarcity. Now that much of the world has adopted a modern lifestyle characterized by sedentarism and excessive caloric intake, these same genes now contribute to poor health and obesity.
+  The Research
+  
+  <img src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/body-fat.jpg\" alt=\"body-fat\" />
+  
+  Bouchard took twelve pairs of twins and subjected them to 84 days over a 100-day period of overfeeding by 1,000 calories per day, for a total of 84,000 excess calories. Subjects maintained a sedentary lifestyle during this time. The average weight gain was 17.86 pounds, but the range went from 9.48 pounds to 29.32 pounds!
+  Even though each subject adhered to the same feeding schedule, the most metabolically cursed individual gained more than triple the weight than the most metabolically blessed individual, stored 100% of excess calories in his tissues (compared to only 40% tissue storage for the most-blessed individual), and increased abdominal visceral fat by 200% (compared to 0% in the case of the most-blessed individual).
+  Similar variances were shown by Bouchard with twins consuming constant energy intake while exercising frequently.
+  Perusse showed that heritability accounts for 42% of subcutaneous fat and 56% of abdominal visceral fat. This means that genetics greatly influence where you store fat, and some individuals have an alarming predisposition to store fat in their abdominal region.
+  Bouchard and Tremblay estimate that 40% of the variability in resting metabolic rate, thermic effect of food, and energy cost of low-to-moderate intensity exercise is genetically related. They also reported that levels of habitual physical activity are highly influenced by heredity.
+  Loos and Bouchard proposed that obesity has a genetic origin, and that sequence variations in adrenergic receptors, uncoupling proteins, the peroxisome proliferator-activated receptor, and lepton receptor genes were of particular relevance.
+  O’Rahilly and Farooqi add that the insulin VNTR and IGF-1 SNPs may be implicated in obesity as well, and Cotsapas showed 16 different loci that affect body mass index (BMI) which are all linked to extreme obesity as well. Rankinen mapped out hundreds of possible gene candidates that could promote obesity.
+  Fawcett and Barroso showed that the fat mass and obesity-associated gene (FTO) is the first universally accepted locus unequivocally associated with adiposity. FTO deficiency protects against obesity, and elevated levels increase adiposity most likely due to increased appetite and decreased energy expenditure.
+  Tercjak adds that FTO may affect insulin resistance too, and suggests that over 100 genes influence obesity. Herrerra and Lindgren list 23 genes that are associated with obesity, and suggest that heredity accounts for 40-70% of BMI!
+  Faith found evidence for genetic influences on caloric intake. Similar conclusions were drawn by Choquette, who examined 836 subjects’ eating behaviors and found six genetic links to increased caloric and macronutrient consumption, including the adiponectin gene.
+  What’s all that mean? It mans that some individuals are genetically predisposed to adiposity and abdominal fat storage.
+  But are some folks born to be great athletes while others are born to warm the bench? Let’s find out.
+  
+  <img src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/arnold-360.jpg\" alt=\"Young Arnold\" />
+  
+  Genetics and Athleticism
+  While we still have much to learn about genetics as it relates to human performance, we do know that many different genes can affect performance.
+  Bray et al. (2009) mapped out the current knowledge of human genes that affect performance as of 2007 and concluded that 214 autosomal genes and loci as well as 18 mitochondrial genes appear to influence fitness and performance.
+  The most popular performance-enhancing gene is ACTN3, also known as alpha-actin-3.
+  There are two alpha-actin proteins: ACTN2 and ACTN3. Alpha actins are structural proteins of the z-lines in muscle fibers, and while ACTN2 is expressed in all fiber types, ACTN3 is preferentially expressed in type IIb fiber types. These fibers are involved in force production at high velocities, which is why ACTN3 is associated with powerful force production.
+  Approximately 18% of individuals, or one billion people worldwide, are completely deficient in ACTN3 and their bodies create more ACTN2 to make up for the absence. These individuals just can’t explode as quickly as their alpha-actin-3-containing counterparts, as elite sprinters are almost never alpha-actin-3 deficient (Yang).
+  The ACE gene, also known as the antiotensin converting enzyme, has also been implicated in human performance. An increase in the frequency of the ACE D allele is associated with power and sprint athletes, while an increased frequency of the ACE I allele is associated with endurance athletes (Nazarov).
+  Cauci showed that the variants of the VNTR IL-1RN gene is associated with improved athleticism. This gene affects the interleukin family of cytokines and enhances the inflammatory response and repair process following exercise. The work of Reichman lends support to this research, as they found that the interleukin-15 protein and receptor were associated with increased muscle hypertrophy.
+  Plenty of other genes exhibit potential to improve athletic performance, such as the myostatin gene, but conclusive evidence doesn’t yet exist, or we just don’t possess a clear enough understanding of the entire puzzle.
+   
+  <img width=\"100%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/bodybuilders.jpg\" alt=\"bodybuilders\" />
+  
+  Don’t Panic, Chicken Legs. You’re Not Doomed!
+  Although the research in this article is pretty scary, I have something to say about it.
+  First, we all have issues with genetics that we have to work around. Some of us are predisposed to carrying excess fat, some of us are lean but have stubborn areas of fat deposition, some have trouble building muscle, and some are muscular but have weak body parts. Some of us have all of this combined, and nobody has perfect genetics!
+  My list of genetic curses is a mile long, but despite this I’ve managed to develop a pretty respectable physique and somewhat impressive strength levels.
+  Second, the protocols used in the research didn’t involve any experimentation, tweaking, and auto-regulatory training. We all need to tweak the variables and figure out our optimal programming methodology.
+  Some people respond best to variety, some to volume, some to intensity, some to frequency, and some to density. You have to discover the best stimulis for your body, which evolves over time.
+  And third, I’ve spoken to my colleagues about this issue and we’re all in agreement: we’ve never trained any individuals who didn’t look better after a couple of months of training, assuming they stick with the program. All of them lose fat and gain some muscular shape.
+  While some individuals have a much easier time than others developing an impressive physique, I’ve yet to see a lifter who trained in an intelligent manner fail to see any results.
+  So even if you’re a “hard gainer” and you don’t respond well, you can and will see results as long as you’re consistent and as long as you continue to experiment. Of course, the rate and amount of adaptation is highly influenced by genetics, but sound training methods will always account for a large portion of training effects.
+  The lesson: Genetics make a difference, but smart training, diet, and supplements can help you maximize what your parents gave you!
+  References
+  
+  Hubal MJ, Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ, Gordon PM, Moyna NM, Pescatello LS, Visich PS, Zoeller RF, Seip RL, Clarkson PM. Variability in muscle size and strength gain after unilateral resistance training. Med Sci Sports Exerc 37: 964–972, 2005.
+  Petrella JK, Kim JS, Mayhew DL, Cross JM, Bamman MM. Potent myofiber hypertrophy during resistance training in humans is associated with satellite cell-mediated myonuclear addition: a cluster analysis. J Appl Physiol 104: 1736–1742, 2008.
+  Bamman MM, Petrella JK, Kim JS, Mayhew DL, Cross JM. Cluster analysis tests the importance of myogenic gene expression during myofiber hypertrophy in humans. J Appl Physiol 102: 2232–2239, 2007.
+  Timmons JA. Variability in training-induced skeletal muscle adaptation. J Appl Physiol [Epub ahead of print], 2010.
+  Dennis RA, Zhu H, Kortebein PM, Bush HM, Harvey JF, Sullivan DH, Peterson CA. Muscle expression of genes associated with inflammation, growth, and remodeling is strongly correlated in older adults with resistance training outcomes. Physiol Genomics 38(2):169-75, 2009.
+  Bouchard C, Tremblay A, Despres JP, Nadeau A, Lupien PJ, Theriault G, Dussault J, Moorjani S, Pinault S, Fournier G. The response to long-term overfeeding in identical twins. N Engl J Med. 322(21):1477–1482, 1990.
+  Bouchard C, Tremblay A, Despres JP, Theriault G, Nadeau A, Lupien PJ, Moorjani S, Prudhomme D, Fournier G. The response to exercise with constant energy intake in identical twins. Obes Res 2:400–410, 1994.
+  Perusse L, Despres JP, Lemieux S, Rice T, Rao DC, Bouchard C. Familial aggregation of abdominal visceral fat level: results from the Quebec family study. Metabolism 45:378–382, 1996.
+  Bouchard C, Tremblay A. Genetic effects in human energy expenditure components. Int. J. Obes 49–55. discussion 55–8, 1990.
+  Loos RJ and Bouchard C. Obesity – is it a genetic disorder? J Intern Med 254(5) 401-25, 2003.
+  Cotsapas C, Speliotes EK, Hatoum IJ, et al.: Common body mass index-associated variants confer risk of extreme obesity. Hum Mol Genet 18:3502–3507, 2009.
+  Rankinen T, Zuberi A, Chagnon YC, Weisnagel SJ, Argyropoulos G, Walts B, Perusse L, Bouchard C. The human obesity gene map: the 2005 update. Obesity (Silver Spring) 14(4):529–644, 2006.
+  Fawcett KA, Barroso I. The genetics of obesity: FTO leads the way. Trends Genet. pp. 266–274, 2010.
+  Tercjak M, Luczynski W, Wawrusiewicz-Kurylonek N, Bossowski A. The role of FTO gene polymorphism in the pathogenesis of obesity. Pediatr Endocrinol Diabetes Metab 16(2) 109-13, 2010.
+  Herrera B and Lindgren C. The genetics of obesity. Curr Diab Rep 10:498-505, 2010.
+  Faith MS, Rha SS, Neale MC, Allison DB. Evidence for genetic influences on human energy intake: results from a twin study using measured observations. Behav Genet 29:145–54, 1999.
+  Choquette AC, Lemieux S, Tremblay A, Chagnon YC, Bouchard C, Vohl MC, Perusse L. Evidence of a quantitative trait locus for energy and macronutrient intakes on chromosome 3q27.3: the Quebec Family Study. Am J Clin Nutr 88(4): 1142-8, 2008.
+  Bray MS, Hagberg JM, Perusse L, Rankinen T, Roth SM, Wolfarth B, Bouchard C. The human gene map for performance and health-related fitness phenotypes: the 2006–2007 update. Med Sci Sports Exerc 41: 35– 73, 2009.
+  Cauci S, Santolo M, Ryckmann KK, Williams SM, Banfi F. Variable number of tandem repeat polymorphisms of the interleukin-1 receptor antagonist gene IL-1RN: a novel association with the athlete status. BMC Med Genet 11(29) 2010.
+  O’Rahilly S., Farooqi I.S. Genetics of obesity. Philos. Trans. R. Soc. Lond. B Biol. Sci. 361:1095–1105, 2006.
+  Riechman SE, Balasekaran G, Roth SM, Ferrell RE. Association of interleukin-15 protein and interleukin-15 receptor genetic variation with resistance exercise training responses. J Appl Physiol 97: 2214–2219, 2004.
+  Yang N, MacArthur DG, Gulbin JP, Hahn AG, Beggs AH, Easteal S, North K. ACTN3 genotype is associated with human elite athletic performance.Am J Hum Genet 73: 627–631, 2003.
+  Nazarov IB, Woods DR, Montgomery HE, Shneider OV, Kazakov VI, Tomilin NV, Rogozkin VA (2001) The angiotensin converting enzyme I/D polymorphism in Russian athletes. Eur J Hum Genet 9:797–801, 2001."

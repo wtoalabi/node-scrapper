@@ -1,0 +1,123 @@
+"Here’s what you need to know…
+  
+  Many bodybuilders believe in the mind-muscle connection: activating a muscle mentally. Others believe that if an exercise is done with good form, the right muscles do their job automatically.
+  The author decided to test (using EMG) whether load, cadence, and form dictate muscle activation, or whether it’s possible to mentally steer neural drive towards some muscles and away from other muscles.
+  The surprise of the study wasn’t that it showed you can activate a muscle mentally, but just how big a role the mind plays in kicking a muscle into gear.
+  
+  Flex Your Brain
+  Bodybuilders have been referring to the mind-muscle connection for a long time, and they’ll typically recommend that new lifters spend time flexing their muscles independently and learning how to activate the muscles properly against resistance.
+  On the other hand, there’s a subgroup of strength coaches and physical therapists that believe that if an exercise is performed with seemingly good form, then the right muscles will automatically do the job, and it’s not necessary, or even possible, for the lifter to mentally alter muscle activation.
+  Which one of these camps is right? Do load, cadence, and form dictate muscle activation? Or can lifters mentally “steer” neural drive toward certain muscles and away from other muscles even when using the same weight, tempo, and mechanics just by focusing their attention on the targeted muscle?
+  To some, the following experiment is going to seem like one of the most obvious experiments you’ve ever seen. You’ll be saying to yourself, “No shit, Sherlock,” particularly if you’ve spent time reading up on bodybuilder wisdom. But to others, it will be eye opening, and offer some insight into the brain’s role in muscle activation dynamics.
+  Methods
+  We decided to get to the bottom of this debate by conducting a pilot experiment. Essentially, we performed a variety of lower and upper body exercises while utilizing electromyography (EMG) to examine muscle activation. During exercise performance, we concentrated our attention either on activating a particular muscle or on not activating a particular muscle.
+  What’s very important to understand is that during each exercise, the load, cadence, and mechanics were kept nearly identical. Stances and grip-width and positions were kept identical, bar and movement paths were unchanged, and joint ranges of motion were kept constant. The typical personal trainer, serving as a “referee,” wouldn’t have noticed any differences between the two styles of lifts for each exercise.
+  We used four different exercises for the lower body: squats, Romanian deadlifts, hip thrusts, and back extensions. We used a barbell load of 135 pounds for squats, RDL’s, and hip thrusts, while we just used bodyweight for back extensions.
+  Our intention on each exercise was to not use the glutes. In the case of squats, the intention was to instead target the quads, and in the case of RDL’s, the intention was to instead target the hammies. We then performed the tests again, this time with the intention of heavily utilizing the glutes.
+  We also used four different exercises for the upper body – two pressing movements and two pulling movements. We used bodyweight push-ups and 135-pound bench presses for upper body pressing muscles. The first time we did them, we concentrated on our pectorals and the second time we did them, we focused on the triceps.
+  For the upper body pulling muscles, we used bodyweight chin-ups and bodyweight inverted rows. Both exercises were performed in two ways, first with an emphasis primarily on the lats, and then with an emphasis on the biceps. We chose to stick with lighter loads as we felt that this would allow for a better ability to steer neural drive, assuming it was even possible, in comparison with heavy loading.
+  Furthermore, we’ve long noticed pro bodybuilders lifting seemingly very light loads while squeezing the muscles and trying to place maximal tension and metabolic stress on the targeted muscle. Using similarly light loads would allow us to gauge whether there might be merit to their methods.
+  Results
+  We found that advanced lifters can indeed steer neural drive to and away from various muscles without significantly altering form. Our averaged data in terms of mean muscle activation are contained in the tables below. Of course you can skip trying to decipher the results and just read the discussion that follows.Lower Body Movements
+  Glute Max
+  Biceps Femoris
+  Vastus Lateralis
+  Lumbar ErectorSquat Quad Focus
+  10.61
+  11.19
+  109.67
+  48.73Squat Glute Focus
+  25.30
+  12.78
+  94.33
+  54.63RDL Hamstring Focus
+  9.13
+  21.07
+  30.80
+  60.67RDL Glute Focus
+  32.13
+  22.67
+  35.97
+  54.33Hip Thrust No Glute Focus
+  20.90
+  6.80
+  33.43
+  70.83Hip Thrust Glute Focus
+  52.67
+  18.40
+  52.60
+  61.53Back Extension No Glute Focus
+  6.05
+  43.63
+  2.17
+  52.53Back Extension Glute Focus
+  38.13
+  52.70
+  2.69
+  47.87
+  
+  Pressing Movements
+  Upper Pec
+  Lower Pec
+  Front Delt
+  TricepPush-Up Pec Focus
+  60.47
+  47.10
+  55.33
+  63.30Push-Up Tricep Focus
+  51.77
+  23.74
+  51.13
+  90.77Bench Press Pec Focus
+  64.90
+  54.77
+  49.77
+  63.43Bench Press Tricep Focus
+  58.47
+  33.23
+  50.73
+  71.77
+  
+  Pulling Movements
+  Lat
+  Rear Delt
+  Mid Trap
+  BicepChin-Up Lat Focus
+  59.73
+  67.33
+  68.30
+  44.10Chin-Up Bicep Focus
+  59.17
+  73.07
+  50.50
+  68.70Inverted Row Lat Focus
+  82.10
+  82.57
+  94.73
+  31.33Inverted Row Bicep Focus
+  66.60
+  75.13
+  62.27
+  71.30 
+  <img width=\"100%\" src=\"https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2019/08/big-bicep.jpg\" alt=\"Big Biceps\" />
+  
+  Discussion
+  As you can see in the tables, there’s definite evidence of the mind-muscle connection, and this phenomenon is more evident in certain muscles than others. Perhaps the most eye opening finding in this experiment is that advanced lifters can perform a bodyweight back extension – which requires around 235 Nm of hip extension torque for an average athletic male – moving from full hip flexion to full hip extension, while barely using the glutes.
+  When purposely trying to not focus on glutes during the back extension, glute EMG activation reached just 6% of MVIC (maximum voluntary isometric contraction). However, when trying to use the glutes, glute EMG activation rose to 38% of MVIC!
+  Overall, glute activation during hip extension exercise was highly dependent on the mental focus of attention. With squats, RDL’s, hip thrusts, and back extensions, glute activation could vary markedly when trying or not trying to utilize them, and glute activation is quite low when squatting with a quad focus or performing an RDL with a hamstring focus. In fact, it appears to be rather difficult to not utilize the quads in a squat, the hamstrings in a back extension, or the glutes in a hip thrust.
+  For the upper body pressing muscles, lower pec activation was very low when focusing on the triceps during push-ups, but while focusing on the pecs, triceps activation was much lower. Furthermore, it seems easier to mentally direct muscle activity during the push-up compared to the bench press.
+  For the pulling muscles, mid-trap and biceps activation varied markedly between trials. Lat activation didn’t change much during chin-ups regardless of focus, but it did with inverted rows. Biceps and mid-trap activation appear to be inversely related depending on whether focusing on the lats or biceps during the pulling movements, and it seems easier to mentally direct muscle activity during the inverted row compared to the chin-up.
+  We deliberately didn’t concentrate or focus on or away from the lumbar erectors, upper pecs, front delts, and rear delts, which explains why their activation was more consistent compared to the glutes, lower pecs, tri’s, and bi’s.
+  Practical Applications & Conclusion
+  Based on this experiment, we can conclude that advanced lifters are quite capable of “steering” neuromuscular drive to and away from muscles, at least with lighter loads.
+  In 2012, researchers Snyder and Fry found that verbal instruction was effective in steering muscle activation with lighter loads in the bench press, but this wasn’t the case with heavier loads. Similarly, a variety of studies have examined the effect of internal focus of attention (focusing on body parts during movement) and found that individuals can preferentially activate muscles depending on the task, for example the abs, the lats, and the glutes.
+  In fact, one study showed that belly dancers could completely isolate their upper and lower abs, indicating that targeting muscles gets easier with practice. Therefore, our results are in agreement with previous research. In fact, there’s research nearly 20 years old providing evidence of the mind muscle connection pertaining to shoulder stabilizers.
+  We think this experiment indicates that the notion, “if it looks right, it’ll fly right” is incorrect, at least according to light-load resistance training. For example, as explained earlier, it’s quite possible to extend the hips while barely activating the glutes during the back extension exercise.
+  Form needs to be solid, but simply observing movement from the outside doesn’t completely tell you what’s going on under the hood. The underlying muscles also need to be firing in proper amounts and in proper combinations during movement for optimal performance, and these amounts and combinations likely differ depending on whether the goal is to develop maximum strength, endurance, or activation.
+  The literature’s quite clear on the fact that an external focus of attention (focusing outside of the body) will produce better demonstrations of strength, endurance, and accuracy. When maxing out on the bench press, you wouldn’t want to focus on maximally activating the pecs or triceps and would instead want to focus on raising the bar off the chest as explosively as possible.
+  Beyond all that, this experiment indicates that bodybuilders were indeed right all along – the mind-muscle connection is a real phenomenon that influences neuromuscular dynamics during resistance training. It’s logical to assume that the mind muscle connection would meaningfully impact hypertrophic gains, but this remains to be shown in the research.
+  In order to be more confident with recommending that lifters prioritize the mind muscle connection, we need research examining whether bodybuilders can steer neural drive when using heavier loading and also whether focusing attention on activating particular muscles during exercise leads to greater hypertrophic adaptations over time. In the meantime, consider experimenting with a few different methods:
+  
+  Give what Mel Siff would call “loadless training” a try by flexing muscles independently just as bodybuilders do when they pose.
+  Perform low-load activation work prior to heavy strength training or in between heavier sets to see if it improves your performance.
+  Perform heavy strength work with an external focus of attention (form) during the workout, but afterwards, perform lighter work with an internal focus of attention, concentrating and trying to activate the target muscles."

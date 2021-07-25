@@ -1,0 +1,244 @@
+"Louie Simmons, powerlifting guru and founder of Westside Barbell, has probably been the most influential person in strength training in the last 20 years. Much of Simmons’ methodology has been influenced by the work of A.S. Prilepin, a Soviet sports scientist. Prilepin reportedly reviewed the training journals of over 1000 weightlifters in search of the keys to building maximum strength, which he summarized in the following table.
+  Prilepin’s TablePercent
+  Reps per Set
+  Optimal # of Reps
+  Total Range of Reps< 70%
+  3-6
+  24
+  18-3070-80%
+  3-6
+  18
+  12-2481-90%
+  2-4
+  15
+  10-20> 90%
+  1-2
+  7
+  4-10Note: This is a strength training table, so it has lower repetitions than normally used for hypertrophy purposes. Remember, Prilepin was summarizing findings of weightlifters, which have very little need for higher repetition work.
+  
+  The first column bases the percentage on a single repetition maximum lift. For instance, if someone’s 1RM deadlift is 500 lbs., 90% of that amount would 450 lbs.
+  The second column suggests the number of repetitions per set. Notice that as the percentage increases, repetitions decrease. This mitigates fatigue and potential overtraining due to increased stress on the nervous system.
+  The third column puts forth an optimal number of total repetitions for strength gains. Again, notice that as the percentage increases, the optimal number of repetitions decreases. Pay particular attention to the drop in optimal repetitions from the 80% to the 90% range (an over 50% reduction). This implies that as movement speed slows, nervous stimulation is greater.
+  The fourth column is a potential range of repetitions based on the associated percentage. As you can see, the previous column’s optimal value is smack dab in the middle of this range. Prilepin likely assumed that any less than the lower number and the trainee would fail to derive enough stimulation; and any more than the higher number would slow the speed of the movement down due to cumulative fatigue.
+  
+  Introducing Time into Prilepin’s Table
+  One element left out of this table is the time factor. In previous writings, Simmons limits time between sets on dynamic effort days to increase workload, i.e. more work in less time. This makes the training session more efficient. Decreasing rest times in a training session can also enhance hypertrophy.
+  So, the first thing we can do to promote hypertrophy with Prilepin’s table is to set a limit to rest times. The limit, however, should be relative to the other columns on the chart. It might look something like this:
+  Modified Prilepin’s Table – The Time FactorPercent
+  Reps per Set
+  Optimal # of Reps
+  Total Range of Reps
+  Rest Period Length< 70%
+  3-6
+  24
+  18-30
+  45-75 sec.70-80%
+  3-6
+  18
+  12-24
+  60-90 sec.81-90%
+  2-4
+  15
+  10-20
+  75-120 sec.> 90%
+  1-2
+  7
+  4-10
+  90-180 sec.Let’s suppose that you bench press 300 lbs. Take 70% of that number, which would be 210 lbs. Since higher reps tend to promote hypertrophy, 4 sets of 6 reps with 210 lbs. and 75 seconds rest between sets would be a logical starting point.
+  You might then progress in the following way. This approach would mitigate the risk of overtraining, provided overall volume and intensity were kept in check.
+  
+  Week 2 – 4 sets x 6 reps with 210 lbs. and 65-second rest periods.
+  Week 3 – 4 sets x 6 reps with 210 lbs. and 55-second rest periods.
+  Week 4 – 4 sets x 6 reps with 210 lbs. and 45-second rest periods.
+  
+  On the fifth week, the percentage could be increased and rest periods increased, with the cycle repeated based on rest period manipulation.
+  Hypertrophy Curveball
+  However, six repetitions or fewer probably isn’t ideal for hypertrophy, so what might Prilepin’s chart look like if higher reps are incorporated?
+  What follows is an extension of his chart, but clearly, it’s not something that he’d likely recommend. Prilepin worked with weightlifters and increased reps decreased efficiency on those lifts.
+  The goal of this hypertrophy training approach is to regulate intensity and bring a rationale to a field that’s often nebulous at best. It’s not about the “pump” and it’s certainly not about training by “feel.”
+  Modified Prilepin’s Table – The Hypertrophy FactorPercent
+  Reps per Set
+  Optimal # of Reps
+  Total Range of Reps
+  Rest Period Length< 70%
+  6-10
+  32
+  20-40
+  45-75 sec.70-80%
+  5-8
+  30
+  20-30
+  60-90 sec.81-90%
+  5-7
+  21
+  15-25
+  75-120 sec.> 90%
+  1-2
+  7
+  4-10
+  90-180 sec.The middle three columns were changed. By increasing the reps, there’s a shift to hypertrophy training.
+  For hypertrophy, the basic idea is that you want to do ‘x’ amount of work in a particular time with the required repetition ranges and rest periods. You can modify that in a number of ways as long as you don’t do too few reps and rest too long.
+  
+  It could be used as in the previous case where the percentage is kept the same and the time periods are decreased.
+  It could also be used in a simple progressive fashion where the trainee does two weeks in the first percentage range, the next two weeks in the following percentage range, and the final two weeks in the third percentage range. This could include keeping rest periods and reps the same, or rest periods the same and decreasing reps slightly, etc.
+  
+  Tempo: Another Spin
+  However, this chart still doesn’t fully articulate all that’s required for hypertrophy. As Charles Poliquin has noted, repetition speed or time under tension (TUT) needs to be taken into account, too.
+  The repetition is broken down into four phases: lowering (eccentric), the transition to concentric, raising (concentric), and the transition to eccentric.
+  A tempo of 4/1/2/1 timing on the shoulder press would mean that four seconds is spent lowering the weight to the upper chest, a one second pause on the upper chest, two seconds raising or pushing the weight away from the body to extension, and a one second pause at the top of the movement before beginning again.
+  So, TUT should be incorporated into the table if we’re going to be efficient.
+  Without further ado – The Complete Prilepin’s Table For HypertrophyPercent
+  Reps per Set
+  Optimal # of Reps
+  Total Range of Reps
+  Rest Period Length
+  TUT Range< 70%
+  6-10
+  32
+  20-40
+  45-75 sec.
+  4/1/1/1-3/1/0/170-80%
+  5-8
+  30
+  20-30
+  60-90 sec.
+  4/1/0/1-3/1/0/181-90%
+  5-7
+  21
+  15-25
+  75-120 sec.
+  4/1/0/1> 90%
+  1-2
+  7
+  4-10
+  90-180 sec.
+  No RecommendationsThe TUT calculation is based on doing between 25 and 45 seconds of work for a set. The lower rep ranges are more dependent upon the top figure of the TUT recommendation, and the higher repetitions are more dependent upon the lower figure.
+  You’ll notice an emphasis on the eccentric number; namely, it’s greater than the concentric number. Eccentric training tends to promote hypertrophy. It’s also the major source of soreness due to the type of damage it produces in the muscle and surrounding areas.
+  The TUT amount throws a bit of a monkey wrench into the previous chart. The best rest periods between sets tends to be those that are shorter. With the goal of doing more work in less time, shorter rest periods accomplish that task.
+  However, when TUT is introduced into the equation, we want to be sure to allow enough recovery to make future sets productive. In doing so, we need to start at the upper end of the rest period range and the lower end of the rep range.
+  For example, consider a shoulder press. Assume that 200 lbs. is 68% of the max.
+  
+  Week 1 – 6 sets x 6 reps with 200 lbs. @ 4/1/1/1 tempo and 75 seconds rest.
+  Week 2 – 5 sets x 7 reps with 200 lbs. @ 4/1/1/1 tempo and 75 seconds rest.
+  Week 3 – 4 sets x 8 reps with 200 lbs. @ 4/1/0/1 tempo and 60 seconds rest.
+  Week 4 – 4 sets x 9 reps with 200 lbs. @ 4/1/0/1 tempo and 60 seconds rest.
+  
+  The repetitions are increasing, the number of sets slightly decrease, and the TUT slightly decreases but stays within range, as do rest periods as well.
+  That’s a basic example of how the hypertrophy table, fully articulated, could work.
+  Program Design with the Complete Hypertrophy Table
+  Now let’s use all this info to build some muscle! The goal in designing any hypertrophy program should center on training as much as possible but within recovery boundaries. Frequency combined with the principles above will guarantee results as long as overtraining doesn’t occur.
+  Consider the following split:
+  
+  Day 1 – Chest, shoulders, back
+  Day 2 – Off
+  Day 3 – Legs and arms
+  Day 4 – Off
+  Day 5 – Chest, shoulders, triceps
+  Day 6 – Back, legs, biceps
+  Day 7 – Off
+  Day 8 – Cycle repeatsDon’t be afraid to group bodyparts in different ways during the same training cycle.
+  To maximize recovery, make days 1 and 3 higher intensity days and days 5 and 6 lower intensity days.
+  Pick one exercise per body part on days 1, 5, and 6. Pick two on day 3 but keep the total overall sets in mind. As a rule, don’t do more than 12 worksets. Hypertrophy is largely the result of increased frequency. The goal is to break down the muscle and get out of the gym, get recovered, and then get back into the gym.
+  Keep the exercises the same over the course of the four weeks.
+  On days 1 and 3, keep the rest periods the same, but add a percent to the lift each week.
+  On days 5 and 6, keep the weight the same, but decrease the rest periods by 5 seconds per week.
+  If you’re a slow gainer, don’t add a percent every week, but do so every other week, and run the program for six weeks.
+  Upon completing the first rotation of 4-6 weeks, change exercises and choose new percentages, new reps, new TUT, and rest periods. However, keep the basic principle that days 1 and 3 have higher percentages than days 5 and 6.
+  
+  Rest 2 minutes between exercises. Warm up completely for all exercises before starting.
+  Day 1 – Chest and back (9 sets) 
+  Exercise
+  Sets
+  Reps
+  Percent
+  RestA
+  Flat dumbbell bench press
+  3
+  6
+  81
+  90 sec.B
+  High incline barbell press
+  3
+  6
+  81
+  90 sec.C
+  Low pulley cable rows
+  3
+  6
+  81
+  90 sec.All sets are done with a 4/1/0/1 tempo.
+  Day 2 – Off
+  Day 3 – Legs and arms (12 sets) 
+  Exercise
+  Sets
+  Reps
+  Percent
+  RestA
+  Squats
+  4
+  5
+  81
+  120 sec.B
+  Still legged deadlifts
+  2
+  6
+  81
+  120 sec.C
+  Underhand close grip pulldowns
+  3
+  6
+  81
+  90 sec.D
+  Dips, elbows in
+  3
+  6
+  81
+  90 sec.All sets are done with a 4/1/0/1 tempo.
+  Day 4 – Off
+  Day 5 – Chest, shoulders, triceps (9 sets) 
+  Exercise
+  Sets
+  Reps
+  Percent
+  RestA
+  Flat barbell bench press
+  3
+  10
+  70
+  75 sec.B
+  Seated dumbbell press
+  3
+  10
+  70
+  75 sec.C
+  EZ bar triceps extensions
+  3
+  10
+  70
+  75 sec.All sets done with a 3/0/2/0 tempo.
+  Day 6 – Legs, back, biceps (11 sets) 
+  Exercise
+  Sets
+  Reps
+  Percent
+  RestA
+  Leg press *
+  4
+  10
+  70
+  75 sec.B
+  Front pulldowns to the chest
+  4
+  10
+  70
+  75 sec.C
+  Dumbbell curls
+  3
+  10
+  70
+  75 sec. * Two sets high on the platform and narrow, two sets lower and wider on the platform. All sets done with a 3/0/2/0 tempo.
+  Day 7 – Off
+  Conclusion
+  While Pripelin’s chart was designed primarily for strength gains, it can be tweaked for hypertrophy to serve more mirror-minded trainees that still want to modulate intensity in an organized manner. Overall, this program contains the right amount of volume, intensity, and frequency to be very effective, assuming that nutritional status is up to par.
+  Bodybuilding, at least as the popular media portrays it, tends to be much more about feeling than reason. The problem with this approach is that feeling is not a reliable guide. Getting a pump sure feels like you’re growing, but without a rationale behind it, you really don’t know if you are.
+  Training with a rationally formulated program builds confidence in the trainee, and it works. And above all, confidence in a program is ultimately what decides its success and the progress of the trainee. This program can build that kind of confidence."

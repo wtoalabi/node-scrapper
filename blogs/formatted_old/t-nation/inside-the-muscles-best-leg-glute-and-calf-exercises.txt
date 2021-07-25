@@ -1,0 +1,307 @@
+"Every guy has his own theory about which exercises are the best and which exercises suck. Whether we’re analyzing the biomechanics of an exercise (not very likely), “feeling the burn” (more likely), or simply doing a ton of sets and seeing how sore we get over the next few days (ding, ding, ding, we have a winner!), we all think we know the best movements to grow our muscles.
+  But do we really?
+  Bret Contreras wants to take you inside your muscles—without the freak accident that usually precedes such gross anatomy lessons—using EMG, a tool that measures how much muscle activity is going on with every movement you do.
+  After testing 57 different quad, hamstring, adductor, glute, and calf exercises, he’s here to reveal the best of the best.
+  — NG
+  Editors Note: If you haven’t yet read Inside the Muscles: Best Shoulders and Trap Exercises you may want to give it a quick look as it’ll clear up any questions you may have regarding electromyography (EMG) and the experiments. You might also want to read Inside the Muscles: Best Chest and Triceps Exercises and Inside the Muscles: Best Back and Biceps Exercises as well.
+  First, I apologize if I left out one of your favorite exercises. Don’t take it personally. I performed these experiments in my garage, and while I have one of the baddest garage gyms in Arizona, I don’t have a lot of machines. I realize that the hip sled, leg extension, hack slide, smith machine, and various leg curl and calf raise machines are an important component to plenty of bodybuilders’ lower body workouts, but I was unable to test them for the time being.
+  I do, however, have some results from past experiments that I’ll elude to toward the end of the article which will shed some light on muscle activation as it relates to lower body machines.
+  I also regret that I could only test four muscles at a time, since the instrument I used to measure EMG activity only has 4-channels. I’m also sorry I couldn’t test more individuals. These experiments are very labor-intensive; in order to measure every exercise on every muscle part using a variety of subjects would be a project of colossal proportions.
+  Just remember this: people are different, but not that different. What’s true for me is probably true for you.
+  I’m not going to make any judgments regarding the safety of any exercise. I realize that certain exercises pose greater risks to the joints than others, but every guy has the right to train however the hell he chooses. As lifters, we can choose to assume a lot of risk or little risk since we’re the owners of our bodies. Good form, a natural tempo, and a full range of motion were always used in these experiments.
+  One last thing: In bodybuilding, powerlifting, and sport-specific training, it’s not all about EMG. Range-of-motion, positions of peak contraction, directional load vectors, levels of stability and instability, transfer through other parts of the body, total muscles and joints worked, specificity, ability to produce muscular soreness, ability to produce constant tension, joint-safety, and conduciveness to going extremely heavy are all important components.
+  Now that the pre-flight safety announcement list of warnings is over, let’s get to it. Are you ready to build huge wheels and enormous calves?
+  What You’ve Been Waiting For! The Exercises
+  Since this is a bodybuilding experiment, I used weight that was light enough to allow me to perform at least five repetitions. The mean number is on top and the peak number is on the bottom. (If you don’t know what I’m talking about, please read What Are Mean and Peak Activation? )Exercise
+  Glute Max (Glutes)
+  Vastus Lateralis (Quadriceps)
+  Adductor Longis (Adductors)
+  Biceps Femoris (Hamstrings)275 lb High Bar Full Squat
+  24.458.0
+  96.0194.0
+  37.279.2
+  36.477.9275 lb High Bar Parallel Squat
+  18.946.6
+  99.9189.0
+  38.193.5
+  38.361.8315 lb High Bar Half Squat
+  28.370.0
+  101.0153.0
+  32.465.4
+  40.389.6365 lb High Bar Quarter Squat
+  26.065.2
+  97.1160.0
+  29.354.3
+  36.564.7275 lb Low Bar Low Box Squat
+  18.268.7
+  83.6153.0
+  31.574.9
+  32.372.6295 lb Low Bar High Box Squat
+  21.050.6
+  83.1146.0
+  32.075.1
+  35.069.9295 lb Low Bar Wide Stance Parallel Squat
+  25.163.3
+  77.2120.0
+  32.371.9
+  41.8107.0295 lb Low Bar Narrow Stance Parallel Squat
+  19.157.8
+  69.1135.0
+  28.162.9
+  32.177.2275 lb Zercher Squat
+  44.699.3
+  75.6116.0
+  24.848.0
+  43.584.0290 lb Lever Machine Squat
+  23.362.4
+  70.0101.0
+  30.154.0
+  29.852.8225 lb Belt Squat
+  18.337.4
+  57.9114.0
+  25.641.0
+  26.139.4270 lb Straddle Lift
+  41.384.4
+  59.2113.0
+  31.675.9
+  52.4101.0225 lb Front Squat
+  30.871.3
+  74.3152.0
+  35.067.1
+  37.690.4405 lb Deadlift
+  52.672.9
+  50.675.8
+  27.856.1
+  105.0179.0405 lb Sumo Deadlift
+  58.1119.0
+  60.6107.0
+  29.381.1
+  85.1153.0365 lb Foot Elevated Deadlift
+  24.966.6
+  47.477.2
+  22.164.6
+  56.7138.0405 lb Hex Bar Deadlift
+  38.891.9
+  68.0102.0
+  28.474.6
+  69.3144.0315 lb Hack Lift
+  33.291.7
+  80.2158.6
+  47.982.5
+  34.066.5365 lb Romanian Deadlift
+  28.249.0
+  35.474.6
+  37.3163.0
+  78.9145.0455 lb Rack Pull
+  44.478.8
+  39.571.8
+  16.835.2
+  105.0181.0180 lb Single Leg RDL
+  31.563.2
+  56.483.6
+  31.085.4
+  71.4150.0225 lb Good Morning
+  30.745.7
+  35.571.1
+  25.049.9
+  67.1123.0225 lb Lever Machine Good Morning
+  29.749.6
+  29.954.5
+  22.643.5
+  58.9114.0405 lb Hip Thrust
+  60.3138.0
+  88.5165.0
+  26.050.4
+  75.1 152.0495 lb Glute Bridge
+  65.3142.0
+  53.190.3
+  17.530.4
+  77.7130.0Red Band Single Leg Hip Thrust
+  51.188.1
+  65.399.9
+  19.637.5
+  51.9102.0Blue Band Skorcher Hip Thrust
+  88.3160.0
+  89.3172.0
+  22.441.7
+  40.3113.0225 lb Reverse Lunge
+  31.182.7
+  70.499.2
+  42.368.5
+  46.3109.0185 lb Bulgarian Squat
+  42.279.0
+  84.8131.0
+  45.469.6
+  55.898.6155 lb Low Step Up
+  23.264.1
+  55.2137.0
+  25.999.0
+  27.386.730 lb High Step Up
+  25.6137.0
+  39.785.4
+  29.6104.0
+  20.654.120 lb Single Leg Squat
+  26.941.3
+  65.593.8
+  41.369.6
+  27.444.2135 lb Back Extension
+  46.189.8
+  3.35.1
+  12.517.6
+  92.5137.02 Red Band Back Extension
+  41.592.0
+  3.97.3
+  9.814.2
+  80.6151.050 lb Single Leg Back Extension
+  37.685.6
+  4.910.0
+  13.520.5
+  93.0151.0100 lb Bent Leg Back Extension
+  55.8114.0
+  6.522.3
+  9.715.4
+  55.488.1135 lb 45 Degree Hyper
+  43.182.4
+  3.67.1
+  11.416.8
+  83.8141.03 Red Band 45 Degree Hyper
+  42.991.9
+  3.86.1
+  8.812.3
+  84.0121.050 lb Single Leg 45 Degree Hyper
+  44.494.3
+  4.810.5
+  13.221.7
+  82.0152.0BW Hanging Single Leg Straight Leg Bridge
+  35.394.8
+  3.04.8
+  29.852.6
+  96.0154.0BW Single Leg Gliding Leg Curl
+  35.066.2
+  8.038.1
+  61.6120.0
+  76.5131.0280 lb Cable Pull Through
+  61.0129.0
+  23.946.0
+  21.678.2
+  31.970.030 lb Glute Ham Raise
+  18.048.6
+  13.235.0
+  42.981.8
+  82.1164.020 lb Bird Dog
+  56.9108.0
+  4.812.2
+  14.028.1
+  82.0173.0BW Russian Leg Curl
+  7.029.7
+  3.67.5
+  46.580.3
+  64.394.0BW Slideboard Leg Curl
+  11.734.3
+  4.27.0
+  46.281.7
+  78.8129.0115 lb Pendulum Quadruped Hip Extension
+  55.393.1
+  72.3143.0
+  15.024.7
+  24.750.0115 lb Pendulum Donkey Kick
+  52.282.2
+  82.4171.0
+  19.144.4
+  21.844.4140 lb Single Leg Reverse Hyper
+  43.3110.0
+  7.515.0
+  20.165.7
+  81.3145.0140 lb Bent Leg Reverse Hyper
+  35.994.2
+  3.95.7
+  29.251.4
+  67.393.5270 lb Reverse Hyper
+  56.7103.0
+  9.228.6
+  15.334.6
+  70.3110.0
+  
+  Exercise
+  GastrocBW Single Leg Calf Raise
+  105.0175.0180 lb Lever Calf Raise
+  88.0130.0360 lb Lever Calf Raise
+  134.0211.0270 lb Explosive Lever Calf Raise
+  124.0175.0270 lb 10-Second Pause Lever Calf Raise
+  99.6177.0225 Parallel Squat
+  73.1263.0The Winners
+  Based on this experiment, here are the top three exercises in terms of mean and peak activity for each muscle part:
+  
+  Gluteus Maximus
+  Mean: Band Skorcher Hip Thrust, Glute Bridge, Pull-Through
+  Peak:  Band Skorcher Hip Thrust, Glute Bridge, Hip Thrust
+  
+  Vastus Lateralis
+  Mean: Half Squat, Parallel Squat, Quarter Squat
+  Peak:  Full Squat, Parallel Squat, Band Skorcher Hip Thrust
+  
+  Adductor Longis
+  Mean: Single Leg Gliding Leg Curl, Hack Lift, Russian Leg Curl
+  Peak:  Romanian Deadlift, Single Leg Gliding Leg Curl, High Step Up
+  
+  Biceps Femoris
+  Mean: Deadlift, Rack Pull, Hanging Single Leg Straight Leg Bridge
+  Peak:  Rack Pull, Deadlift, Weighted Bird Dog
+  
+  Gastrocnemius
+  Mean: Heavy Lever Calf Raise, Explosive Lever Calf Raise, Single Leg Calf Raise
+  Peak:  Parallel Squat, Heavy Lever Calf Raise, Pause Lever Calf Raise
+  “Wait. What the Hell is “The Skorcher?”
+  The Skorcher is an apparatus I invented and patented which allows the lifter to perform band hip thrusts with the shoulders and feet elevated so the hips can sink down through a full range of motion against maximum band tension.
+  It’s also possible to perform barbell hip thrusts and single leg hip thrusts off the Skorcher. I have no aspirations to manufacture and market the invention, as I don’t believe the current economy is conducive to new fitness products, not to mention the fact that the Skorcher looks very archaic and I’m far from convinced that there would be adequate demand for a specialized glute machine that is foreign to most exercisers. (It also involves an extremely embarrassing looking movment, where you basically hump the sky.)
+  Although it’s not possible for T NATION readers to use a Skorcher for hip thrusts, I included the Skorcher data in this article to alert the reader that there is an optimal way to work the glutes, and with a little innovation, you may be able to rig something up if you have a garage-gym.
+  Hip Thrusts and Glute Bridges
+  Since my glute article came out last year, I’ve seen absolutely horrendous hip thrust videos on Youtube. I guess I should have seen this coming, as all one needs to do is take a quick trip to any local gym to witness piss-poor form on squats, deadlifts, and bench presses due to “ego-lifting”.
+  This led me to film an entire instructional video for the hip thrust. In short, it takes time to get good at hip thrusts and glute bridges; you must control the weight and use a full range of motion by bending solely at the hips and not the spine, and avoid compensating with the lumbar spine.
+  Advantages and Disadvantages
+  If any lift in this experiment had an “unfair advantage,” it was the pull through. When going heavy, I often struggle to maintain balance and find myself being pulled out of position mid-set. To prevent this from happening, I rigged up a series of two-by-fours that were positioned directly behind my heels to help me with my balance. This allowed me to go much heavier than normal and get a much better glute workout.
+  If any lifts in this experiment had an “unfair disadvantage,” it would be the box squat and step up. Both involve an abnormally long pause during the movements which decreases mean activation levels.
+  Previous Experiments
+  Each exercise in this experiment was performed in the same session in order to maximize accuracy. In EMG, exercises tested with the exact same electrode placement and MVC trials will be much more valid and reliable than exercises tested during subsequent sessions.
+  In the past I have tested leg presses, leg extensions, hack squats, smith machine squats, lying leg curls, seated leg curls, butt blasters, 4-way hip extensions, seated adduction, and seated abduction. Suffice to say, leg presses, leg extensions, and smith machine squats, did not beat out barbell squat and lunge variations in quad activity (although they were all pretty similar).
+  Lying leg curls and seated leg curls did not beat out barbell deadlift or straight leg hip extension exercises in hamstring activity. And butt blasters, 4-way hip extensions, and seated abductions did not beat out barbell hip thrusts or glute bridges in glute activity.
+  Conversely, machine hack squats appear to slightly edge out squats in quad activity and seated adductions greatly outperform all hip extension exercises in adductor activity (save for the hamstring part of the adductor magnus).
+  These results are somewhat surprising given that I am 6’4″ and often wondered if the leg press or smith machine squats worked my quads harder than free weight squats or whether any leg curl machines worked my hamstrings harder than various straight leg hip extension exercises. (They don’t come close.)
+  Although the leg extension does not appear to be the best way to activate the vasti muscles, the lean-away leg extension does appear to be the best way to activate the rectus femoris.
+  Soreness vs. Pump
+  Upon examination, many individuals will look at the EMG chart and say to themselves, “What? Lunges make my glutes so sore. What gives?” Or, “What? Good mornings cripple my hamstrings. What’s the deal?” Exercises that really stretch a certain muscle while providing maximum tension during that stretch tend to produce the most soreness.
+  Exercises that place consistent tension on a certain muscle, especially at the terminal position of the movement, tend to produce the most occlusion, hypoxia, or “pump.”
+  Often “stretch” position exercises fall behind “contraction” position exercises in mean EMG activity. Which type of exercise is better for hypertrophy? Both. Soreness is a great indicator of muscular damage which leads to the release of various hormones and growth factors. The pump is a great indicator of occlusion which also leads to the release of various hormones and growth factors.
+  One without the other will likely yield suboptimal results.
+  Unilateral vs. Bilateral
+  A common belief is that unilateral exercises activate more glute muscle. As I alluded to earlier, lunges might be the best exercise at making the glutes sore due to the extreme tension on the muscle in a deep-stretch position. But according to my experiments, bilateral movements activate more glute than unilateral movements.
+  This is seen across the board, from quad dominant movements (squats vs. lunges) to hip dominant movements (deadlifts vs. single leg RDL’s) to bent knee hip dominant movements (hip thrusts vs. single leg hip thrusts).
+  This is due to the increased inherent stability involved in bilateral lifts. Single leg training definitely has its place due to balance, multiplanar stability, coordination, sport-specific training, and decreased spinal loading, but double leg training should always be prioritized regardless of the training goal.
+  What Happens When Form Breaks Down?
+  I’ve actually tested the EMG activity of crappy squats and deadlifts. Specifically, I loaded up my 1RM and performed a “squat-morning” and a “rounded back deadlift.” In the case of the squat fallen-forward, hamstring and spinal erector activity increased while glute, quad, and adductor activity decreased. In the case of the round-back deadlift, erector spinae activity increased while glute, hamstring, quad, and adductor activity decreased.
+  Confirmations
+  
+  We’ve always known that bodybuilder-style squats work more quad than powerlifter-style squats and that powerlifter-style squats work more hamstring than bodybuilder-style squats. This study now provides some evidence to support the claim.
+  We know that the hack lift is an excellent way to make a deadlift pattern more quad-dominant, and now we have some data to back it up.
+  Except for the kneeling squat (which I tested last year but not this year), the Zercher squat works the most glute out of all of the various squat variations. According to this experiment, the sumo deadlift works the most glute out of the various deadlift variations, in addition to activating more quad (but less hamstring) than conventional deadlifts.
+  Comparing two different straight-leg hip extension exercises, the reverse hyper always activates more glute than the back extension but the back extension always activates more hamstring than the reverse hyper. Quid pro quo.
+  Exercises with anteroposterior (front-to-back) loading such as barbell glute bridges, hip thrusts, and pull-throughs appear to work the glutes the best as they provide maximum tension in the end-range contracted position where the gluteus maximus is at its optimum length-tension relationship.
+  Heavy calf raises appear to trump lighter, explosive calf raises as well as lighter calf raises with long pauses.
+  
+  Surprises
+  As I mentioned earlier, I am 6’4″. Despite my height, squats are still my best quad exercise except for possibly machine hack squats, and deadlifts are still my best hamstring exercise. I should mention that I’m pretty darn strong at machine exercises; I can do 800-900 lb leg presses with a full ROM and usually rep out with the entire stack on leg extensions, lying leg curls, and seated leg curls.
+  I’m always surprised that the good morning doesn’t elicit more hamstring activity and the lunge doesn’t elicit more glute activity. It also surprises me that the high step-up elicits such high levels of peak activation at the initiation of the movement.
+  It appears to be a really good position to “turn on” the glutes. I was very surprised to find that the hip belt squat and straddle lift did not activate much quad, hamstring, or glute musculature in relation to barbell variations. I was shocked to see how good of a job the weighted bird dog does at activating the glutes and hamstrings.
+  It’s always surprising to me that quadruped movements often activate more glute muscle than bridging movements. I feel like bridging movements work the glutes and upper hamstrings harder, but this experiment doesn’t support that notion.
+  Also, it appears that back squats work more quad than front squats and deadlifts work more hamstring than RDL’s. Weird.
+  What If?
+  During experiments like these, one is often left with much curiosity. What if I would have experimented more with various foot flare angles, heel or toe elevations, or stance widths. What if I would have used barbell plus band tension in the squat, deadlift, and hip thrust? What if I would have done barbell hip thrusts off the Skorcher and not just band Skorcher hip thrusts? What if I had elevated the rear end of the reverse hyper to allow for more range of motion during the pendulum quadruped hip extension?
+  What if I would have tested other quad, hamstring, and adductor muscles? Is it possible to target more outer or inner quads, hamstrings, and calves based on foot position? What if I utilized fine wire EMG instead of surface EMG? Would that have changed the outcome of the experiments?
+  All in all, it was still an extremely productive experiment, and there’s always time for more testing down the road. Clearly more research is needed, as it’s impossible to anticipate everything prior to an experiment, no matter how prepared and organized you seem.
+  The Best Damn Hip, Leg, and Calf Workout
+  Based on the results of this experiment, I bet the following would be one kick-ass workout that’d target the quads, hamstrings, glutes, and calves. Enjoy!
+  
+  Quads: Full Squat, Parallel Squat, Half Squat, or Quarter Squat
+  Hamstrings: Deadlift or Rack Pull
+  Glutes: Barbell Glute Bridge, Hip Thrust, Pull Through
+  Calves: Heavy Calf Raise"
